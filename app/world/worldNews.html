@@ -1,0 +1,49 @@
+<div class="page-header marginTop10" >
+  <h1 style="width:40% ;float:left">World news <small>in Angular 2</small></h1>
+  <a  style="float:right" href="http://developer.nytimes.com/" target="_blank"> 
+  <img src="http://static01.nytimes.com/packages/images/developer/logos/poweredby_nytimes_150a.png">
+  </a>
+  <div class="clearfix"></div>
+</div>
+<div class="row">
+    <div class="col-sm-12">
+
+        
+            <carousel [interval]="3000" [noWrap]="false">
+            <slide *ngFor="let slidez of topworldnewsCarousel; let index=index"
+                    [active]="slidez.active">
+                    <a [href]="slidez.url" target="_blank">
+                        <img [src]="slidez.imageUrl" [title]="slidez.abstract" style="margin:auto;width:60%">
+                    </a>  
+                <div class="carousel-caption">
+                <h4>Slide {{index+1}}</h4>
+
+                <p>{{slidez.title}}</p>
+                </div>
+            </slide>
+            </carousel>
+      
+        <br/>
+
+        <span class="topnewsHeader col-sm-12">Top News</span>
+            <div class="clearfix"></div>
+            
+            <div class="col-sm-3" *ngFor="let new of topworldnews">
+                <div>
+                    <img class="img-responsive" [src]="new.imageUrl" style="max-height:170px;"/>
+                </div>
+                <div class="clearfix" style="margin-top: 5px;"></div>
+                <a [href]="new.url"><span class="topnewsLink">{{new.title}}</span></a>
+               
+                <div class="clearfix"></div>
+                <span style="font-size: 13px;">{{new.abstract}}</span>
+                <div class="clearfix"></div>
+                <a [href]="new.url"> <span class="topnewsLink">Read more</span></a>
+            </div>
+
+        
+
+
+    </div>
+
+</div>
