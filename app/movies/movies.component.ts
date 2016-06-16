@@ -81,6 +81,7 @@ export class MoviesComponent implements OnInit{
             break;
         }
        
+       
         this.movies=sortedMovies;
         this.currentPage=1;
         this.moviesToShow=this.movies.slice(0,this.itemsPerPage);
