@@ -1,1091 +1,1425 @@
-
 {
   "status": "OK",
   "copyright": "Copyright (c) 2016 The New York Times Company. All Rights Reserved.",
   "section": "world",
-  "last_updated": "2016-06-12T13:35:09-04:00",
-  "num_results": 26,
+  "last_updated": "2016-06-14T10:00:16-04:00",
+  "num_results": 35,
   "results": [
     {
       "section": "World",
       "subsection": "Europe",
-      "title": "As Strikes Continue in France, Garbage and Resentment Pile Up",
-      "abstract": "After terrorist attacks, floods and other labor strife, a walkout by trash workers was the latest insult just as the weather warmed and fans arrived for the European Championship soccer tournament.",
-      "url": "http://www.nytimes.com/2016/06/12/world/europe/amid-ongoing-strikes-garbage-and-resentment-pile-up-in-france.html",
-      "byline": "By ADAM NOSSITER",
+      "title": "Globally, Orlando Attack Strikes Now-Familiar Fault Lines",
+      "abstract": "The Orlando massacre resonated across the world not as an American anomaly, but because it felt so universal.",
+      "url": "http://www.nytimes.com/2016/06/14/world/europe/globally-orlando-attack-strikes-now-familiar-fault-lines.html",
+      "byline": "By JIM YARDLEY",
       "item_type": "Article",
-      "updated_date": "2016-06-11T19:54:26-04:00",
-      "created_date": "2016-06-11T19:54:29-04:00",
-      "published_date": "2016-06-12T00:00:00-04:00",
+      "updated_date": "2016-06-14T02:20:50-04:00",
+      "created_date": "2016-06-13T16:59:25-04:00",
+      "published_date": "2016-06-14T00:00:00-04:00",
       "material_type_facet": "",
       "kicker": "",
       "des_facet": [
-        "Strikes",
-        "Labor and Jobs"
+        "Orlando, Fla, Shooting (2016)",
+        "Gun Control",
+        "Terrorism",
+        "Hate Crimes",
+        "Paris Attacks (November 2015)",
+        "Homosexuality and Bisexuality"
       ],
       "org_facet": [
-        "Air France"
+        "Pulse (Orlando, Fla, Nightclub)"
       ],
       "per_facet": [
-        "Baudelaire, Charles Pierre",
-        "Martinez, Philippe",
-        "Valls, Manuel"
+        "Mateen, Omar (1986-2016)"
       ],
-      "geo_facet": [
-        "Paris (France)"
-      ],
+      "geo_facet": [],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/12FRANCE/12FRANCE-thumbStandard.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14world-web5/14world-web5-thumbStandard.jpg",
           "format": "Standard Thumbnail",
           "height": 75,
           "width": 75,
           "type": "image",
           "subtype": "photo",
-          "caption": "Philippe Martinez, the head of a French worker’s union, spoke in front of a chemical factory in southern France on Saturday.",
-          "copyright": "Bertrand Langlois/Agence France-Presse — Getty Images"
+          "caption": "People held an American flag in rainbow colors on Monday in front of the United States Embassy in Warsaw.",
+          "copyright": "Kacper Pempel/Reuters"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/12FRANCE/12FRANCE-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14world-web5/14world-web5-thumbLarge.jpg",
           "format": "thumbLarge",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Philippe Martinez, the head of a French worker’s union, spoke in front of a chemical factory in southern France on Saturday.",
-          "copyright": "Bertrand Langlois/Agence France-Presse — Getty Images"
+          "caption": "People held an American flag in rainbow colors on Monday in front of the United States Embassy in Warsaw.",
+          "copyright": "Kacper Pempel/Reuters"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/12FRANCE/12FRANCE-articleInline.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14world-web5/14world-web5-articleInline.jpg",
           "format": "Normal",
-          "height": 126,
+          "height": 129,
           "width": 190,
           "type": "image",
           "subtype": "photo",
-          "caption": "Philippe Martinez, the head of a French worker’s union, spoke in front of a chemical factory in southern France on Saturday.",
-          "copyright": "Bertrand Langlois/Agence France-Presse — Getty Images"
+          "caption": "People held an American flag in rainbow colors on Monday in front of the United States Embassy in Warsaw.",
+          "copyright": "Kacper Pempel/Reuters"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/12FRANCE/12FRANCE-mediumThreeByTwo210.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14world-web5/14world-web5-mediumThreeByTwo210.jpg",
           "format": "mediumThreeByTwo210",
           "height": 140,
           "width": 210,
           "type": "image",
           "subtype": "photo",
-          "caption": "Philippe Martinez, the head of a French worker’s union, spoke in front of a chemical factory in southern France on Saturday.",
-          "copyright": "Bertrand Langlois/Agence France-Presse — Getty Images"
+          "caption": "People held an American flag in rainbow colors on Monday in front of the United States Embassy in Warsaw.",
+          "copyright": "Kacper Pempel/Reuters"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/12FRANCE/12FRANCE-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14world-web5/14world-web5-superJumbo.jpg",
           "format": "superJumbo",
-          "height": 1363,
+          "height": 1393,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "Philippe Martinez, the head of a French worker’s union, spoke in front of a chemical factory in southern France on Saturday.",
-          "copyright": "Bertrand Langlois/Agence France-Presse — Getty Images"
+          "caption": "People held an American flag in rainbow colors on Monday in front of the United States Embassy in Warsaw.",
+          "copyright": "Kacper Pempel/Reuters"
         }
       ],
-      "short_url": "http://nyti.ms/1OiPyQC"
-    },
-    {
-      "section": "World",
-      "subsection": "Middle East",
-      "title": "Freed From Prison, Zainab al-Khawaja Flees Bahrain",
-      "abstract": "Zainab al-Khawaja, imprisoned for opposing that country’s ruling monarchy, has left the Persian Gulf state in fear of being rearrested and separated from her son.",
-      "url": "http://www.nytimes.com/2016/06/12/world/middleeast/freed-from-prison-zainab-al-khawaja-flees-bahrain.html",
-      "byline": "By KAREEM FAHIM",
-      "item_type": "Article",
-      "updated_date": "2016-06-11T16:51:58-04:00",
-      "created_date": "2016-06-11T16:52:01-04:00",
-      "published_date": "2016-06-12T00:00:00-04:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Political Prisoners",
-        "Demonstrations, Protests and Riots"
-      ],
-      "org_facet": [],
-      "per_facet": [
-        "Khawaja, Zainab al-",
-        "Khawaja, Abdulhadi al-",
-        "Khalifa, Hamad Bin Isa al-"
-      ],
-      "geo_facet": [
-        "Bahrain",
-        "Persian Gulf"
-      ],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/12BAHRAIN/12BAHRAIN-thumbStandard.jpg",
-          "format": "Standard Thumbnail",
-          "height": 75,
-          "width": 75,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The human rights activist Zainab al-Khawaja was released from prison in May, but fear of re-arrest has led her to flee Bahrain for Denmark.",
-          "copyright": "Hamad I Mohammed/Reuters"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/12BAHRAIN/12BAHRAIN-thumbLarge.jpg",
-          "format": "thumbLarge",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The human rights activist Zainab al-Khawaja was released from prison in May, but fear of re-arrest has led her to flee Bahrain for Denmark.",
-          "copyright": "Hamad I Mohammed/Reuters"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/12BAHRAIN/12BAHRAIN-articleInline.jpg",
-          "format": "Normal",
-          "height": 126,
-          "width": 190,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The human rights activist Zainab al-Khawaja was released from prison in May, but fear of re-arrest has led her to flee Bahrain for Denmark.",
-          "copyright": "Hamad I Mohammed/Reuters"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/12BAHRAIN/12BAHRAIN-mediumThreeByTwo210.jpg",
-          "format": "mediumThreeByTwo210",
-          "height": 140,
-          "width": 210,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The human rights activist Zainab al-Khawaja was released from prison in May, but fear of re-arrest has led her to flee Bahrain for Denmark.",
-          "copyright": "Hamad I Mohammed/Reuters"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/12BAHRAIN/12BAHRAIN-superJumbo.jpg",
-          "format": "superJumbo",
-          "height": 1363,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The human rights activist Zainab al-Khawaja was released from prison in May, but fear of re-arrest has led her to flee Bahrain for Denmark.",
-          "copyright": "Hamad I Mohammed/Reuters"
-        }
-      ],
-      "short_url": "http://nyti.ms/21eZGew"
+      "short_url": "http://nyti.ms/1Ur3o41"
     },
     {
       "section": "World",
       "subsection": "Europe",
-      "title": "While Young Britons Favor Staying in E.U., They Aren’t Big on Voting",
-      "abstract": "Holding the attention of young voters — and getting them to turn out on June 23 for a referendum on whether Britain should stay in the European Union — is a challenge.",
-      "url": "http://www.nytimes.com/2016/06/12/world/europe/while-young-britons-favor-staying-in-eu-they-arent-big-on-voting.html",
-      "byline": "By KIMIKO DE FREYTAS-TAMURA",
+      "title": "Orthodox Churches’ Council, Centuries in Making, Falters as Russia Exits",
+      "abstract": "The Moscow Patriarchate’s decision highlighted tensions between the Russian branch and a rival leadership based in Istanbul.",
+      "url": "http://www.nytimes.com/2016/06/15/world/europe/orthodox-church-council-russia.html",
+      "byline": "By ANDREW HIGGINS",
       "item_type": "Article",
-      "updated_date": "2016-06-11T11:53:35-04:00",
-      "created_date": "2016-06-11T11:53:38-04:00",
-      "published_date": "2016-06-12T00:00:00-04:00",
+      "updated_date": "2016-06-14T09:47:19-04:00",
+      "created_date": "2016-06-14T09:47:21-04:00",
+      "published_date": "2016-06-15T00:00:00-04:00",
       "material_type_facet": "",
       "kicker": "",
       "des_facet": [
-        "Referendums",
-        "Youth"
+        "Russian Orthodox Church"
       ],
-      "org_facet": [
-        "European Union"
-      ],
+      "org_facet": [],
       "per_facet": [],
-      "geo_facet": [
-        "Great Britain",
-        "London (England)",
-        "Brussels (Belgium)",
-        "Europe"
-      ],
+      "geo_facet": [],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/europe/12Brexityouth-web/12Brexityouth-web-thumbStandard.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15Orthodox-web1/15Orthodox-web1-thumbStandard.jpg",
           "format": "Standard Thumbnail",
           "height": 75,
           "width": 75,
           "type": "image",
           "subtype": "photo",
-          "caption": "Supporters of the “Vote Remain” campaign in London. Young Britons are generally comfortable with a multicultural society, surveys have found, and they value the opportunity to work and travel in 28 European nations without a visa.",
-          "copyright": "Yui Mok/Agence France-Presse — Getty Images"
+          "caption": "Patriarch Kirill, center, at a liturgy in Karyes, Greece, in May. The Russian Orthodox Church has increasingly sought to assert itself as the pre-eminent voice of the Orthodox faith.",
+          "copyright": "Darko Bandic/Associated Press"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/europe/12Brexityouth-web/12Brexityouth-web-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15Orthodox-web1/15Orthodox-web1-thumbLarge.jpg",
           "format": "thumbLarge",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Supporters of the “Vote Remain” campaign in London. Young Britons are generally comfortable with a multicultural society, surveys have found, and they value the opportunity to work and travel in 28 European nations without a visa.",
-          "copyright": "Yui Mok/Agence France-Presse — Getty Images"
+          "caption": "Patriarch Kirill, center, at a liturgy in Karyes, Greece, in May. The Russian Orthodox Church has increasingly sought to assert itself as the pre-eminent voice of the Orthodox faith.",
+          "copyright": "Darko Bandic/Associated Press"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/europe/12Brexityouth-web/12Brexityouth-web-articleInline.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15Orthodox-web1/15Orthodox-web1-articleInline.jpg",
           "format": "Normal",
           "height": 127,
           "width": 190,
           "type": "image",
           "subtype": "photo",
-          "caption": "Supporters of the “Vote Remain” campaign in London. Young Britons are generally comfortable with a multicultural society, surveys have found, and they value the opportunity to work and travel in 28 European nations without a visa.",
-          "copyright": "Yui Mok/Agence France-Presse — Getty Images"
+          "caption": "Patriarch Kirill, center, at a liturgy in Karyes, Greece, in May. The Russian Orthodox Church has increasingly sought to assert itself as the pre-eminent voice of the Orthodox faith.",
+          "copyright": "Darko Bandic/Associated Press"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/europe/12Brexityouth-web/12Brexityouth-web-mediumThreeByTwo210.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15Orthodox-web1/15Orthodox-web1-mediumThreeByTwo210.jpg",
           "format": "mediumThreeByTwo210",
           "height": 140,
           "width": 210,
           "type": "image",
           "subtype": "photo",
-          "caption": "Supporters of the “Vote Remain” campaign in London. Young Britons are generally comfortable with a multicultural society, surveys have found, and they value the opportunity to work and travel in 28 European nations without a visa.",
-          "copyright": "Yui Mok/Agence France-Presse — Getty Images"
+          "caption": "Patriarch Kirill, center, at a liturgy in Karyes, Greece, in May. The Russian Orthodox Church has increasingly sought to assert itself as the pre-eminent voice of the Orthodox faith.",
+          "copyright": "Darko Bandic/Associated Press"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/europe/12Brexityouth-web/12Brexityouth-web-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15Orthodox-web1/15Orthodox-web1-superJumbo.jpg",
           "format": "superJumbo",
-          "height": 1366,
+          "height": 1365,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "Supporters of the “Vote Remain” campaign in London. Young Britons are generally comfortable with a multicultural society, surveys have found, and they value the opportunity to work and travel in 28 European nations without a visa.",
-          "copyright": "Yui Mok/Agence France-Presse — Getty Images"
+          "caption": "Patriarch Kirill, center, at a liturgy in Karyes, Greece, in May. The Russian Orthodox Church has increasingly sought to assert itself as the pre-eminent voice of the Orthodox faith.",
+          "copyright": "Darko Bandic/Associated Press"
         }
       ],
-      "short_url": "http://nyti.ms/21eAbd6"
+      "short_url": "http://nyti.ms/1Uslsei"
     },
     {
       "section": "World",
-      "subsection": "Asia Pacific",
-      "title": "China Tries to Redistribute Education to the Poor, Igniting Class Conflict",
-      "abstract": "A plan to expand higher education to students from impoverished regions, at the expense of the urban middle class, has set off an intense backlash.",
-      "url": "http://www.nytimes.com/2016/06/12/world/asia/china-higher-education-for-the-poor-protests.html",
-      "byline": "By JAVIER C. HERNÁNDEZ",
+      "subsection": "Africa",
+      "title": "Oscar Pistorius Is Unfit to Testify at Sentencing, Psychologist Says",
+      "abstract": "A defense psychologist argued that Mr. Pistorius should be hospitalized rather than imprisoned: “His condition is severe.”",
+      "url": "http://www.nytimes.com/2016/06/14/world/africa/oscar-pistorius-sentence.html",
+      "byline": "By SEWELL CHAN",
       "item_type": "Article",
-      "updated_date": "2016-06-11T12:04:52-04:00",
-      "created_date": "2016-06-11T12:04:54-04:00",
-      "published_date": "2016-06-12T00:00:00-04:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Colleges and Universities",
-        "Admissions Standards",
-        "gaokao",
-        "Tests and Examinations",
-        "Income Inequality",
-        "Demonstrations, Protests and Riots"
-      ],
-      "org_facet": [],
-      "per_facet": [],
-      "geo_facet": [
-        "China"
-      ],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2016/06/10/world/11CHINACOLLEGE-web1/11CHINACOLLEGE-web1-thumbStandard.jpg",
-          "format": "Standard Thumbnail",
-          "height": 75,
-          "width": 75,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Students in Mianyang, China, did review work in May as they prepared for the national college entrance exam, known as the gaokao. The exam gives the admissions system a meritocratic sheen, but critics say it reinforces the divide between urban and rural students.",
-          "copyright": "Imaginechina, via Associated Press"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/10/world/11CHINACOLLEGE-web1/11CHINACOLLEGE-web1-thumbLarge.jpg",
-          "format": "thumbLarge",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Students in Mianyang, China, did review work in May as they prepared for the national college entrance exam, known as the gaokao. The exam gives the admissions system a meritocratic sheen, but critics say it reinforces the divide between urban and rural students.",
-          "copyright": "Imaginechina, via Associated Press"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/10/world/11CHINACOLLEGE-web1/11CHINACOLLEGE-web1-articleInline.jpg",
-          "format": "Normal",
-          "height": 123,
-          "width": 190,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Students in Mianyang, China, did review work in May as they prepared for the national college entrance exam, known as the gaokao. The exam gives the admissions system a meritocratic sheen, but critics say it reinforces the divide between urban and rural students.",
-          "copyright": "Imaginechina, via Associated Press"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/10/world/11CHINACOLLEGE-web1/11CHINACOLLEGE-web1-mediumThreeByTwo210.jpg",
-          "format": "mediumThreeByTwo210",
-          "height": 140,
-          "width": 210,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Students in Mianyang, China, did review work in May as they prepared for the national college entrance exam, known as the gaokao. The exam gives the admissions system a meritocratic sheen, but critics say it reinforces the divide between urban and rural students.",
-          "copyright": "Imaginechina, via Associated Press"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/10/world/11CHINACOLLEGE-web1/11CHINACOLLEGE-web1-superJumbo.jpg",
-          "format": "superJumbo",
-          "height": 1321,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Students in Mianyang, China, did review work in May as they prepared for the national college entrance exam, known as the gaokao. The exam gives the admissions system a meritocratic sheen, but critics say it reinforces the divide between urban and rural students.",
-          "copyright": "Imaginechina, via Associated Press"
-        }
-      ],
-      "short_url": "http://nyti.ms/1OinVHq"
-    },
-    {
-      "section": "World",
-      "subsection": "Asia Pacific",
-      "title": "Explosion Wounds 4 at Airport in Shanghai",
-      "abstract": "The police said the blast, at a check-in counter in one of China’s busiest airports, was set off by a man carrying a homemade explosive.",
-      "url": "http://www.nytimes.com/2016/06/13/world/asia/shanghai-pudong-airport-explosion-wounds-4.html",
-      "byline": "By KEITH BRADSHER and CHRIS BUCKLEY",
-      "item_type": "Article",
-      "updated_date": "2016-06-12T08:55:19-04:00",
-      "created_date": "2016-06-12T08:55:20-04:00",
-      "published_date": "2016-06-13T00:00:00-04:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Airport Security",
-        "Bombs and Explosives"
-      ],
-      "org_facet": [],
-      "per_facet": [],
-      "geo_facet": [
-        "China",
-        "Shanghai (China)"
-      ],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2016/06/13/world/13china/13china-thumbStandard.jpg",
-          "format": "Standard Thumbnail",
-          "height": 75,
-          "width": 75,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Paramilitary officers standing guard at Pudong International Airport in Shanghai after a blast that officials said was set off by a man carrying a homemade explosive.",
-          "copyright": "Aly Song/Reuters"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/13/world/13china/13china-thumbLarge.jpg",
-          "format": "thumbLarge",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Paramilitary officers standing guard at Pudong International Airport in Shanghai after a blast that officials said was set off by a man carrying a homemade explosive.",
-          "copyright": "Aly Song/Reuters"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/13/world/13china/13china-articleInline.jpg",
-          "format": "Normal",
-          "height": 127,
-          "width": 190,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Paramilitary officers standing guard at Pudong International Airport in Shanghai after a blast that officials said was set off by a man carrying a homemade explosive.",
-          "copyright": "Aly Song/Reuters"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/13/world/13china/13china-mediumThreeByTwo210.jpg",
-          "format": "mediumThreeByTwo210",
-          "height": 140,
-          "width": 210,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Paramilitary officers standing guard at Pudong International Airport in Shanghai after a blast that officials said was set off by a man carrying a homemade explosive.",
-          "copyright": "Aly Song/Reuters"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/13/world/13china/13china-superJumbo.jpg",
-          "format": "superJumbo",
-          "height": 1366,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Paramilitary officers standing guard at Pudong International Airport in Shanghai after a blast that officials said was set off by a man carrying a homemade explosive.",
-          "copyright": "Aly Song/Reuters"
-        }
-      ],
-      "short_url": "http://nyti.ms/1rjG38O"
-    },
-    {
-      "section": "Magazine",
-      "subsection": "",
-      "title": "Mecca Goes Mega",
-      "abstract": "A building boom in the city’s sacred center has created a dazzling, high-tech 21st-century pilgrimage.",
-      "url": "http://www.nytimes.com/2016/06/12/magazine/mecca-goes-mega.html",
-      "byline": "Photographs by LUCA LOCATELLI",
-      "item_type": "Article",
-      "updated_date": "2016-06-08T07:00:02-04:00",
-      "created_date": "2016-06-08T07:00:05-04:00",
-      "published_date": "2016-06-12T00:00:00-04:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Muslims and Islam",
-        "Pilgrimages",
-        "Photography",
-        "Travel and Vacations"
-      ],
-      "org_facet": [],
-      "per_facet": [],
-      "geo_facet": [
-        "Mecca (Saudi Arabia)"
-      ],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/magazine/12mecca1/12mecca1-thumbStandard.jpg",
-          "format": "Standard Thumbnail",
-          "height": 75,
-          "width": 75,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "A view of the Grand Mosque from a Grand Royal Suite at the Fairmont Makkah Clock Royal Tower. The suite can cost $10,000 a night.",
-          "copyright": "Luca Locatelli/Institute, for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/magazine/12mecca1/12mecca1-thumbLarge.jpg",
-          "format": "thumbLarge",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "A view of the Grand Mosque from a Grand Royal Suite at the Fairmont Makkah Clock Royal Tower. The suite can cost $10,000 a night.",
-          "copyright": "Luca Locatelli/Institute, for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/magazine/12mecca1/12mag-12mecca-t_CA5-articleInline.jpg",
-          "format": "Normal",
-          "height": 142,
-          "width": 190,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "A view of the Grand Mosque from a Grand Royal Suite at the Fairmont Makkah Clock Royal Tower. The suite can cost $10,000 a night.",
-          "copyright": "Luca Locatelli/Institute, for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/magazine/12mecca1/12mecca1-mediumThreeByTwo210.jpg",
-          "format": "mediumThreeByTwo210",
-          "height": 140,
-          "width": 210,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "A view of the Grand Mosque from a Grand Royal Suite at the Fairmont Makkah Clock Royal Tower. The suite can cost $10,000 a night.",
-          "copyright": "Luca Locatelli/Institute, for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/magazine/12mecca1/12mag-12mecca-t_CA5-superJumbo.jpg",
-          "format": "superJumbo",
-          "height": 1532,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "A view of the Grand Mosque from a Grand Royal Suite at the Fairmont Makkah Clock Royal Tower. The suite can cost $10,000 a night.",
-          "copyright": "Luca Locatelli/Institute, for The New York Times"
-        }
-      ],
-      "short_url": "http://nyti.ms/1WEzWJZ"
-    },
-    {
-      "section": "World",
-      "subsection": "Asia Pacific",
-      "title": "Bangladesh Arrests Over 3,000 to Halt Attacks",
-      "abstract": "The arrests were part of a series of raids intended to quell a wave of deadly machete attacks against bloggers, minorities and others, the police said.",
-      "url": "http://www.nytimes.com/2016/06/12/world/asia/bangladesh-arrests-over-3000-to-halt-attacks.html",
-      "byline": "By JULFIKAR ALI MANIK and GEETA ANAND",
-      "item_type": "Article",
-      "updated_date": "2016-06-11T19:11:44-04:00",
-      "created_date": "2016-06-11T19:11:46-04:00",
-      "published_date": "2016-06-12T00:00:00-04:00",
+      "updated_date": "2016-06-13T06:00:54-04:00",
+      "created_date": "2016-06-13T06:00:56-04:00",
+      "published_date": "2016-06-14T00:00:00-04:00",
       "material_type_facet": "",
       "kicker": "",
       "des_facet": [
         "Murders, Attempted Murders and Homicides"
       ],
-      "org_facet": [
-        "Islamic State in Iraq and Syria (ISIS)",
-        "Al Qaeda",
-        "Jama'atul Mujahedeen Bangladesh"
-      ],
-      "per_facet": [],
-      "geo_facet": [
-        "Bangladesh"
-      ],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/12BANGLADESH/12BANGLADESH-thumbStandard.jpg",
-          "format": "Standard Thumbnail",
-          "height": 75,
-          "width": 75,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "A crowd in Dhaka, Bangladesh, watching a police raid in February that was part of an effort to halt a wave of brutal attacks on minorities and activists.",
-          "copyright": "A.M. Ahad/Associated Press"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/12BANGLADESH/12BANGLADESH-thumbLarge.jpg",
-          "format": "thumbLarge",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "A crowd in Dhaka, Bangladesh, watching a police raid in February that was part of an effort to halt a wave of brutal attacks on minorities and activists.",
-          "copyright": "A.M. Ahad/Associated Press"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/12BANGLADESH/12BANGLADESH-articleInline.jpg",
-          "format": "Normal",
-          "height": 139,
-          "width": 190,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "A crowd in Dhaka, Bangladesh, watching a police raid in February that was part of an effort to halt a wave of brutal attacks on minorities and activists.",
-          "copyright": "A.M. Ahad/Associated Press"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/12BANGLADESH/12BANGLADESH-mediumThreeByTwo210.jpg",
-          "format": "mediumThreeByTwo210",
-          "height": 140,
-          "width": 210,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "A crowd in Dhaka, Bangladesh, watching a police raid in February that was part of an effort to halt a wave of brutal attacks on minorities and activists.",
-          "copyright": "A.M. Ahad/Associated Press"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/12BANGLADESH/12BANGLADESH-superJumbo.jpg",
-          "format": "superJumbo",
-          "height": 1502,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "A crowd in Dhaka, Bangladesh, watching a police raid in February that was part of an effort to halt a wave of brutal attacks on minorities and activists.",
-          "copyright": "A.M. Ahad/Associated Press"
-        }
-      ],
-      "short_url": "http://nyti.ms/21f9Lbq"
-    },
-    {
-      "section": "World",
-      "subsection": "Asia Pacific",
-      "title": "South Korean Families Watch Ferry’s Salvaging, Hoping Truth Surfaces",
-      "abstract": "Distrustful of the government’s response to the 2014 Sewol disaster, victims’ families have camped out on a rocky island to monitor the salvage operation.",
-      "url": "http://www.nytimes.com/2016/06/12/world/asia/south-korean-families-watch-ferrys-salvaging-hoping-truth-surfaces.html",
-      "byline": "By CHOE SANG-HUN",
-      "item_type": "Article",
-      "updated_date": "2016-06-11T18:52:42-04:00",
-      "created_date": "2016-06-11T18:52:45-04:00",
-      "published_date": "2016-06-12T00:00:00-04:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Maritime Accidents and Safety",
-        "Ferries"
-      ],
-      "org_facet": [
-        "Danwon High School (Ansan, South Korea)",
-        "Cheonghaejin Marine Co"
-      ],
-      "per_facet": [],
-      "geo_facet": [
-        "South Korea"
-      ],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/FERRY/FERRY-thumbStandard.jpg",
-          "format": "Standard Thumbnail",
-          "height": 75,
-          "width": 75,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Oh Byung-hwan, left, whose son died in the 2014 Sewol ferry disaster, is among the relatives of victims who have camped out on Donggeochado, South Korea, to monitor the ship&rsquo;s salvaging operation.",
-          "copyright": "Jean Chung for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/FERRY/FERRY-thumbLarge.jpg",
-          "format": "thumbLarge",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Oh Byung-hwan, left, whose son died in the 2014 Sewol ferry disaster, is among the relatives of victims who have camped out on Donggeochado, South Korea, to monitor the ship&rsquo;s salvaging operation.",
-          "copyright": "Jean Chung for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/FERRY/FERRY-articleInline.jpg",
-          "format": "Normal",
-          "height": 127,
-          "width": 190,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Oh Byung-hwan, left, whose son died in the 2014 Sewol ferry disaster, is among the relatives of victims who have camped out on Donggeochado, South Korea, to monitor the ship&rsquo;s salvaging operation.",
-          "copyright": "Jean Chung for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/FERRY/FERRY-mediumThreeByTwo210.jpg",
-          "format": "mediumThreeByTwo210",
-          "height": 140,
-          "width": 210,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Oh Byung-hwan, left, whose son died in the 2014 Sewol ferry disaster, is among the relatives of victims who have camped out on Donggeochado, South Korea, to monitor the ship&rsquo;s salvaging operation.",
-          "copyright": "Jean Chung for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/FERRY/FERRY-superJumbo.jpg",
-          "format": "superJumbo",
-          "height": 1365,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Oh Byung-hwan, left, whose son died in the 2014 Sewol ferry disaster, is among the relatives of victims who have camped out on Donggeochado, South Korea, to monitor the ship&rsquo;s salvaging operation.",
-          "copyright": "Jean Chung for The New York Times"
-        }
-      ],
-      "short_url": "http://nyti.ms/21f99m5"
-    },
-    {
-      "section": "World",
-      "subsection": "Asia Pacific",
-      "title": "Doctor’s Plan for Full-Body Transplants Raises Doubts Even in Daring China",
-      "abstract": "Patients suffering from paralysis and muscular wasting diseases are enthusiastic, but medical experts say the idea is “at best premature and at worst reckless.”",
-      "url": "http://www.nytimes.com/2016/06/12/world/asia/china-body-transplant.html",
-      "byline": "By DIDI KIRSTEN TATLOW",
-      "item_type": "Article",
-      "updated_date": "2016-06-11T18:28:48-04:00",
-      "created_date": "2016-06-11T18:28:50-04:00",
-      "published_date": "2016-06-12T00:00:00-04:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Transplants",
-        "Head (Body Part)",
-        "Paralysis",
-        "Spine (Body Part)"
-      ],
       "org_facet": [],
       "per_facet": [
-        "Ren Xiaoping"
+        "Pistorius, Oscar",
+        "Steenkamp, Reeva"
+      ],
+      "geo_facet": [],
+      "multimedia": [],
+      "short_url": "http://nyti.ms/1rl9w27"
+    },
+    {
+      "section": "World",
+      "subsection": "Africa",
+      "title": "South Sudanese Suffer as Leaders Dispute the Nature of Their Home",
+      "abstract": "A fragile peace deal could bring traders back to Terekeka after South Sudan’s civil war. But first, the formerly warring parties must agree on what Terekeka is: a county or a state.",
+      "url": "http://www.nytimes.com/2016/06/15/world/africa/south-sudanese-suffer-as-leaders-dispute-the-nature-of-their-home.html",
+      "byline": "By JACEY FORTIN",
+      "item_type": "Article",
+      "updated_date": "2016-06-14T09:30:25-04:00",
+      "created_date": "2016-06-14T09:30:28-04:00",
+      "published_date": "2016-06-15T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [
+        "Kiir Mayardit, Salva"
       ],
       "geo_facet": [
-        "Harbin (China)"
+        "Terekeka (South Sudan)",
+        "South Sudan"
       ],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2016/05/30/world/06CHINATRANSPLANT-web1/06CHINATRANSPLANT-web1-thumbStandard.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/world/15southsudan-web1/15southsudan-web1-thumbStandard.jpg",
           "format": "Standard Thumbnail",
           "height": 75,
           "width": 75,
           "type": "image",
           "subtype": "photo",
-          "caption": "Dr. Ren Xiaoping, left, an orthopedic surgeon in Harbin, China, plans to carry out full-body transplants, raising concerns among medical experts and ethicists around the world.",
-          "copyright": "Gilles Sabrie for The New York Times"
+          "caption": "A family of farmers in Terekeka, South Sudan, said the cost of living had increased as a result of the country’s civil war, which killed tens of thousands of people and displaced more than two million.",
+          "copyright": "William Davison"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/05/30/world/06CHINATRANSPLANT-web1/06CHINATRANSPLANT-web1-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/world/15southsudan-web1/15southsudan-web1-thumbLarge.jpg",
           "format": "thumbLarge",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Dr. Ren Xiaoping, left, an orthopedic surgeon in Harbin, China, plans to carry out full-body transplants, raising concerns among medical experts and ethicists around the world.",
-          "copyright": "Gilles Sabrie for The New York Times"
+          "caption": "A family of farmers in Terekeka, South Sudan, said the cost of living had increased as a result of the country’s civil war, which killed tens of thousands of people and displaced more than two million.",
+          "copyright": "William Davison"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/05/30/world/06CHINATRANSPLANT-web1/06CHINATRANSPLANT-web1-articleInline.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/world/15southsudan-web1/15southsudan-web1-articleInline.jpg",
           "format": "Normal",
-          "height": 127,
+          "height": 126,
           "width": 190,
           "type": "image",
           "subtype": "photo",
-          "caption": "Dr. Ren Xiaoping, left, an orthopedic surgeon in Harbin, China, plans to carry out full-body transplants, raising concerns among medical experts and ethicists around the world.",
-          "copyright": "Gilles Sabrie for The New York Times"
+          "caption": "A family of farmers in Terekeka, South Sudan, said the cost of living had increased as a result of the country’s civil war, which killed tens of thousands of people and displaced more than two million.",
+          "copyright": "William Davison"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/05/30/world/06CHINATRANSPLANT-web1/06CHINATRANSPLANT-web1-mediumThreeByTwo210.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/world/15southsudan-web1/15southsudan-web1-mediumThreeByTwo210.jpg",
           "format": "mediumThreeByTwo210",
           "height": 140,
           "width": 210,
           "type": "image",
           "subtype": "photo",
-          "caption": "Dr. Ren Xiaoping, left, an orthopedic surgeon in Harbin, China, plans to carry out full-body transplants, raising concerns among medical experts and ethicists around the world.",
-          "copyright": "Gilles Sabrie for The New York Times"
+          "caption": "A family of farmers in Terekeka, South Sudan, said the cost of living had increased as a result of the country’s civil war, which killed tens of thousands of people and displaced more than two million.",
+          "copyright": "William Davison"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/05/30/world/06CHINATRANSPLANT-web1/06CHINATRANSPLANT-web1-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/world/15southsudan-web1/15southsudan-web1-superJumbo.jpg",
           "format": "superJumbo",
-          "height": 1367,
+          "height": 1361,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "Dr. Ren Xiaoping, left, an orthopedic surgeon in Harbin, China, plans to carry out full-body transplants, raising concerns among medical experts and ethicists around the world.",
-          "copyright": "Gilles Sabrie for The New York Times"
+          "caption": "A family of farmers in Terekeka, South Sudan, said the cost of living had increased as a result of the country’s civil war, which killed tens of thousands of people and displaced more than two million.",
+          "copyright": "William Davison"
         }
       ],
-      "short_url": "http://nyti.ms/1OiLb8e"
+      "short_url": "http://nyti.ms/1rnGgb1"
     },
+   
     {
       "section": "World",
-      "subsection": "Asia Pacific",
-      "title": "ACT, Citing Breach, Cancels Exam in South Korea and Hong Kong",
-      "abstract": "More than 5,000 students were prevented from taking the college entrance test on Saturday in what a spokesman said was the first known nationwide cancellation in its history.",
-      "url": "http://www.nytimes.com/2016/06/12/world/asia/act-citing-breach-cancels-exam-in-south-korea-and-hong-kong.html",
-      "byline": "By CHOE SANG-HUN",
+      "subsection": "Middle East",
+      "title": "Qatar Convicts Dutch Woman Who Reported Rape but Will Let Her Return Home",
+      "abstract": "The woman was prosecuted on charges of adultery and alcohol consumption and received a one-year suspended sentence.",
+      "url": "http://www.nytimes.com/2016/06/14/world/middleeast/qatar-convicts-dutch-woman-rape.html",
+      "byline": "By DAN BILEFSKY",
       "item_type": "Article",
-      "updated_date": "2016-06-11T12:06:55-04:00",
-      "created_date": "2016-06-11T12:06:57-04:00",
-      "published_date": "2016-06-12T00:00:00-04:00",
+      "updated_date": "2016-06-13T08:33:05-04:00",
+      "created_date": "2016-06-13T08:33:07-04:00",
+      "published_date": "2016-06-14T00:00:00-04:00",
       "material_type_facet": "",
       "kicker": "",
       "des_facet": [
-        "ACT (Examination)"
+        "Sex Crimes"
       ],
-      "org_facet": [
-        "ACT, Inc"
-      ],
+      "org_facet": [],
       "per_facet": [],
       "geo_facet": [
-        "Hong Kong",
-        "South Korea"
+        "Qatar"
       ],
       "multimedia": [],
-      "short_url": "http://nyti.ms/1OinNaY"
+      "short_url": "http://nyti.ms/1UpYSTt"
     },
     {
-      "section": "World",
-      "subsection": "Asia Pacific",
-      "title": "Australia Reconsiders How Far Flight 370 May Have Flown",
-      "abstract": "As survey ships near the end of a search for the missing jet, officials take a last-ditch look at how far a plane might travel after using up its fuel.",
-      "url": "http://www.nytimes.com/2016/06/12/world/asia/australia-mh370-malaysia-airlines.html",
-      "byline": "By KEITH BRADSHER",
+      "section": "Business Day",
+      "subsection": "International Business",
+      "title": "How China Won the Keys to Disney’s Magic Kingdom",
+      "abstract": "Plans for the $5.5 billion Shanghai Disney Resort, which opens Thursday, were in limbo until Disney dialed back its demands to the Communist Party.",
+      "url": "http://www.nytimes.com/2016/06/15/business/international/china-disney.html",
+      "byline": "By DAVID BARBOZA and BROOKS BARNES",
       "item_type": "Article",
-      "updated_date": "2016-06-11T11:29:13-04:00",
-      "created_date": "2016-06-11T11:29:17-04:00",
-      "published_date": "2016-06-12T00:00:00-04:00",
+      "updated_date": "2016-06-14T05:00:45-04:00",
+      "created_date": "2016-06-14T05:00:48-04:00",
+      "published_date": "2016-06-15T00:00:00-04:00",
       "material_type_facet": "",
       "kicker": "",
-      "des_facet": [
-        "Malaysia Airlines Flight 370",
-        "Aviation Accidents, Safety and Disasters"
-      ],
-      "org_facet": [],
-      "per_facet": [],
-      "geo_facet": [
-        "Indian Ocean",
-        "Australia"
-      ],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2016/05/13/world/14PLANE-web1/14PLANE-web1-thumbStandard.jpg",
-          "format": "Standard Thumbnail",
-          "height": 75,
-          "width": 75,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Technicians worked aboard the Fugro Equator, a ship searching for the remains of Malaysia Airlines Flight 370, as it docked in Fremantle, Australia, in May.",
-          "copyright": "David Dare Parker for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/05/13/world/14PLANE-web1/14PLANE-web1-thumbLarge.jpg",
-          "format": "thumbLarge",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Technicians worked aboard the Fugro Equator, a ship searching for the remains of Malaysia Airlines Flight 370, as it docked in Fremantle, Australia, in May.",
-          "copyright": "David Dare Parker for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/05/13/world/14PLANE-web1/14PLANE-web1-articleInline.jpg",
-          "format": "Normal",
-          "height": 127,
-          "width": 190,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Technicians worked aboard the Fugro Equator, a ship searching for the remains of Malaysia Airlines Flight 370, as it docked in Fremantle, Australia, in May.",
-          "copyright": "David Dare Parker for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/05/13/world/14PLANE-web1/14PLANE-web1-mediumThreeByTwo210.jpg",
-          "format": "mediumThreeByTwo210",
-          "height": 140,
-          "width": 210,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Technicians worked aboard the Fugro Equator, a ship searching for the remains of Malaysia Airlines Flight 370, as it docked in Fremantle, Australia, in May.",
-          "copyright": "David Dare Parker for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/05/13/world/14PLANE-web1/14PLANE-web1-superJumbo.jpg",
-          "format": "superJumbo",
-          "height": 1367,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Technicians worked aboard the Fugro Equator, a ship searching for the remains of Malaysia Airlines Flight 370, as it docked in Fremantle, Australia, in May.",
-          "copyright": "David Dare Parker for The New York Times"
-        }
-      ],
-      "short_url": "http://nyti.ms/21ey5tK"
-    },
-    {
-      "section": "World",
-      "subsection": "Asia Pacific",
-      "title": "India Holds Suspect in Killing of Narendra Dabholkar, an Anti-Mystic Activist",
-      "abstract": "The suspect, Virendra Tawde, is said to have clashed with Dr. Dabholkar over the physician’s crusade against spiritual practices he considered fraudulent.",
-      "url": "http://www.nytimes.com/2016/06/12/world/asia/narendra-dabholkar-india.html",
-      "byline": "By ELLEN BARRY",
-      "item_type": "Article",
-      "updated_date": "2016-06-11T10:00:42-04:00",
-      "created_date": "2016-06-11T10:00:44-04:00",
-      "published_date": "2016-06-12T00:00:00-04:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Murders, Attempted Murders and Homicides",
-        "Hinduism"
-      ],
+      "des_facet": [],
       "org_facet": [
-        "Sanatan Sanstha"
+        "Walt Disney Company",
+        "Shanghai Disney Resort",
+        "Shanghai Shendi Group",
+        "Communist Party of China"
       ],
       "per_facet": [
-        "Dabholkar, Narendra"
+        "Iger, Robert A"
       ],
       "geo_facet": [
-        "India"
+        "China",
+        "Shanghai (China)"
+      ],
+      "multimedia": [],
+      "short_url": "http://nyti.ms/1UrYwf8"
+    },
+    {
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "Afghanistan and Pakistan Exchange Heavy Gunfire Along Border",
+      "abstract": "The fighting, which forced the closing of the Torkham crossing, left at least 13 wounded in Pakistan and killed least one Afghan police officer.",
+      "url": "http://www.nytimes.com/2016/06/14/world/asia/afghanistan-pakistan-torkham-border-crossing.html",
+      "byline": "By ISMAIL KHAN and ROD NORDLAND",
+      "item_type": "Article",
+      "updated_date": "2016-06-13T10:14:29-04:00",
+      "created_date": "2016-06-13T10:14:31-04:00",
+      "published_date": "2016-06-14T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Defense and Military Forces"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Afghanistan",
+        "Pakistan",
+        "torkham"
       ],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/12india-web1/12india-web1-thumbStandard.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14Pakistan-web/14Pakistan-web-thumbStandard.jpg",
           "format": "Standard Thumbnail",
           "height": 75,
           "width": 75,
           "type": "image",
           "subtype": "photo",
-          "caption": "Mourners paid their respects to Dr. Narendra Dabholkar in 2013.",
-          "copyright": "Strdel/Agence France-Presse — Getty Images"
+          "caption": "Afghan border police officers rested on Monday after overnight clashes with Pakistani forces along the border.",
+          "copyright": "Noorullah Shirzada/Agence France-Presse — Getty Images"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/12india-web1/12india-web1-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14Pakistan-web/14Pakistan-web-thumbLarge.jpg",
           "format": "thumbLarge",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Mourners paid their respects to Dr. Narendra Dabholkar in 2013.",
-          "copyright": "Strdel/Agence France-Presse — Getty Images"
+          "caption": "Afghan border police officers rested on Monday after overnight clashes with Pakistani forces along the border.",
+          "copyright": "Noorullah Shirzada/Agence France-Presse — Getty Images"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/12india-web1/12india-web1-articleInline.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14Pakistan-web/14Pakistan-web-articleInline.jpg",
           "format": "Normal",
-          "height": 127,
+          "height": 126,
           "width": 190,
           "type": "image",
           "subtype": "photo",
-          "caption": "Mourners paid their respects to Dr. Narendra Dabholkar in 2013.",
-          "copyright": "Strdel/Agence France-Presse — Getty Images"
+          "caption": "Afghan border police officers rested on Monday after overnight clashes with Pakistani forces along the border.",
+          "copyright": "Noorullah Shirzada/Agence France-Presse — Getty Images"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/12india-web1/12india-web1-mediumThreeByTwo210.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14Pakistan-web/14Pakistan-web-mediumThreeByTwo210.jpg",
           "format": "mediumThreeByTwo210",
           "height": 140,
           "width": 210,
           "type": "image",
           "subtype": "photo",
-          "caption": "Mourners paid their respects to Dr. Narendra Dabholkar in 2013.",
-          "copyright": "Strdel/Agence France-Presse — Getty Images"
+          "caption": "Afghan border police officers rested on Monday after overnight clashes with Pakistani forces along the border.",
+          "copyright": "Noorullah Shirzada/Agence France-Presse — Getty Images"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/12/world/12india-web1/12india-web1-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14Pakistan-web/14Pakistan-web-superJumbo.jpg",
           "format": "superJumbo",
-          "height": 1371,
+          "height": 1363,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "Mourners paid their respects to Dr. Narendra Dabholkar in 2013.",
-          "copyright": "Strdel/Agence France-Presse — Getty Images"
+          "caption": "Afghan border police officers rested on Monday after overnight clashes with Pakistani forces along the border.",
+          "copyright": "Noorullah Shirzada/Agence France-Presse — Getty Images"
         }
       ],
-      "short_url": "http://nyti.ms/21eoZ0d"
+      "short_url": "http://nyti.ms/1rlAzdv"
     },
     {
-      "section": "Technology",
-      "subsection": "",
-      "title": "The Chinese Hackers in the Back Office",
-      "abstract": "A dusty old computer in a mom-and-pop Wisconsin welding shop is giving a digital security firm a window into the operations of Chinese hackers.",
-      "url": "http://www.nytimes.com/2016/06/12/technology/the-chinese-hackers-in-the-back-office.html",
-      "byline": "By NICOLE PERLROTH",
+      "section": "World",
+      "subsection": "Australia",
+      "title": "Australian Rodent Is First Mammal to Go Extinct Due to Climate Change, Scientists Say",
+      "abstract": "In 2014, researchers used traps and cameras to try to determine how many Bramble Cay melomys were left on a tiny outcrop in the Great Barrier Reef. They found none.",
+      "url": "http://www.nytimes.com/2016/06/15/world/australia/climate-change-bramble-cay-rodent.html",
+      "byline": "By MICHELLE INNIS",
       "item_type": "Article",
-      "updated_date": "2016-06-11T05:00:21-04:00",
-      "created_date": "2016-06-11T05:00:23-04:00",
-      "published_date": "2016-06-12T00:00:00-04:00",
+      "updated_date": "2016-06-14T08:11:52-04:00",
+      "created_date": "2016-06-14T08:11:55-04:00",
+      "published_date": "2016-06-15T00:00:00-04:00",
       "material_type_facet": "",
       "kicker": "",
       "des_facet": [
-        "Cyberattacks and Hackers",
-        "Computers and the Internet",
-        "Welding and Welders"
+        "Endangered and Extinct Species",
+        "Global Warming",
+        "Mammals",
+        "Reefs"
       ],
       "org_facet": [],
       "per_facet": [],
+      "geo_facet": [
+        "Great Barrier Reef (Australia)",
+        "Australia"
+      ],
+      "multimedia": [],
+      "short_url": "http://nyti.ms/1rnymyo"
+    },
+    {
+      "section": "Arts",
+      "subsection": "International Arts",
+      "title": "Smithsonian to Open London Exhibition Space With Victoria and Albert Museum",
+      "abstract": "The institution’s first permanent outpost abroad will be part of a complex in the east of the city called Olympicopolis, due to open in 2021.",
+      "url": "http://www.nytimes.com/2016/06/15/arts/international/smithsonian-institution-victoria-and-albert-olympicopolis.html",
+      "byline": "By ROSLYN SULCAS",
+      "item_type": "Article",
+      "updated_date": "2016-06-14T07:55:45-04:00",
+      "created_date": "2016-06-14T07:55:47-04:00",
+      "published_date": "2016-06-15T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Museums"
+      ],
+      "org_facet": [
+        "Olympicopolis",
+        "Smithsonian Institution",
+        "Victoria and Albert Museum"
+      ],
+      "per_facet": [
+        "Horvath, Albert G"
+      ],
+      "geo_facet": [
+        "London (England)"
+      ],
+      "multimedia": [],
+      "short_url": "http://nyti.ms/1rnwxBt"
+    },
+    {
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "Incendiary Memoir by Chinese Rights Lawyer Reaches Bookshelves Abroad",
+      "abstract": "In the book, the lawyer, Gao Zhisheng, describes his time as a prisoner from 2009 to 2014, when he was released and sent to live under police surveillance.",
+      "url": "http://www.nytimes.com/2016/06/15/world/asia/china-gao-zhisheng-book.html",
+      "byline": "By MICHAEL FORSYTHE",
+      "item_type": "Article",
+      "updated_date": "2016-06-14T07:32:12-04:00",
+      "created_date": "2016-06-14T07:32:15-04:00",
+      "published_date": "2016-06-15T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Human Rights and Human Rights Violations"
+      ],
+      "org_facet": [
+        "Communist Party of China"
+      ],
+      "per_facet": [
+        "Gao Zhisheng",
+        "Xi Jinping"
+      ],
       "geo_facet": [
         "China"
       ],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2016/06/12/business/12WELDING/12WELDING-thumbStandard.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15CHINAGAO01/15CHINAGAO01-thumbStandard.jpg",
           "format": "Standard Thumbnail",
           "height": 75,
           "width": 75,
           "type": "image",
           "subtype": "photo",
-          "caption": "Cate Machine &amp; Welding has allowed Area 1, a digital security company, to monitor the activity on a dusty, old server taken over by Chinese hackers so that potential victims of an attack can be warned.",
-          "copyright": "Lauren Justice for The New York Times"
+          "caption": "Grace Geng, the daughter of the human rights lawyer Gao Zhisheng, presented her father’s book, whose Chinese title translates to “The Year 2017, Stand Up, China,” in Hong Kong on Tuesday.",
+          "copyright": "Kin Cheung/Associated Press"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/12/business/12WELDING/12WELDING-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15CHINAGAO01/15CHINAGAO01-thumbLarge.jpg",
           "format": "thumbLarge",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Cate Machine &amp; Welding has allowed Area 1, a digital security company, to monitor the activity on a dusty, old server taken over by Chinese hackers so that potential victims of an attack can be warned.",
-          "copyright": "Lauren Justice for The New York Times"
+          "caption": "Grace Geng, the daughter of the human rights lawyer Gao Zhisheng, presented her father’s book, whose Chinese title translates to “The Year 2017, Stand Up, China,” in Hong Kong on Tuesday.",
+          "copyright": "Kin Cheung/Associated Press"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/12/business/12WELDING/12WELDING-articleInline.jpg",
-          "format": "Normal",
-          "height": 128,
-          "width": 190,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Cate Machine &amp; Welding has allowed Area 1, a digital security company, to monitor the activity on a dusty, old server taken over by Chinese hackers so that potential victims of an attack can be warned.",
-          "copyright": "Lauren Justice for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/business/12WELDING/12WELDING-mediumThreeByTwo210.jpg",
-          "format": "mediumThreeByTwo210",
-          "height": 140,
-          "width": 210,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Cate Machine &amp; Welding has allowed Area 1, a digital security company, to monitor the activity on a dusty, old server taken over by Chinese hackers so that potential victims of an attack can be warned.",
-          "copyright": "Lauren Justice for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/business/12WELDING/12WELDING-superJumbo.jpg",
-          "format": "superJumbo",
-          "height": 1376,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Cate Machine &amp; Welding has allowed Area 1, a digital security company, to monitor the activity on a dusty, old server taken over by Chinese hackers so that potential victims of an attack can be warned.",
-          "copyright": "Lauren Justice for The New York Times"
-        }
-      ],
-      "short_url": "http://nyti.ms/1XNpS20"
-    },
-    {
-      "section": "Business Day",
-      "subsection": "Media",
-      "title": "Greed, Passion, Lust, Betrayal, and the Olympics in Between",
-      "abstract": "In Brazil, the popular TV serials called telenovelas have so tight a grip on viewers that even the Olympics on home turf take a back seat in prime time.",
-      "url": "http://www.nytimes.com/2016/06/12/business/media/greed-passion-lust-betrayal-and-the-olympics-in-between.html",
-      "byline": "By DAVID SEGAL",
-      "item_type": "Article",
-      "updated_date": "2016-06-10T15:52:23-04:00",
-      "created_date": "2016-06-10T05:00:29-04:00",
-      "published_date": "2016-06-12T00:00:00-04:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Soap Operas",
-        "Olympic Games (2016)"
-      ],
-      "org_facet": [
-        "Globo"
-      ],
-      "per_facet": [],
-      "geo_facet": [
-        "Brazil"
-      ],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/business/12BRAZILSOAP/12BRAZILSOAP-thumbStandard.jpg",
-          "format": "Standard Thumbnail",
-          "height": 75,
-          "width": 75,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The actresses Nathalia Dill, left, and Juliana Carneiro da Cunha on the set of the telenovela &ldquo;Liberdade, Liberdade,&rdquo; at Globo&rsquo;s studios in a suburb of Rio de Janeiro.",
-          "copyright": "Lalo de Almeida for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/business/12BRAZILSOAP/12BRAZILSOAP-thumbLarge.jpg",
-          "format": "thumbLarge",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The actresses Nathalia Dill, left, and Juliana Carneiro da Cunha on the set of the telenovela &ldquo;Liberdade, Liberdade,&rdquo; at Globo&rsquo;s studios in a suburb of Rio de Janeiro.",
-          "copyright": "Lalo de Almeida for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/business/12BRAZILSOAP/12BRAZILSOAP-articleInline.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15CHINAGAO01/15CHINAGAO01-articleInline.jpg",
           "format": "Normal",
           "height": 127,
           "width": 190,
           "type": "image",
           "subtype": "photo",
-          "caption": "The actresses Nathalia Dill, left, and Juliana Carneiro da Cunha on the set of the telenovela &ldquo;Liberdade, Liberdade,&rdquo; at Globo&rsquo;s studios in a suburb of Rio de Janeiro.",
-          "copyright": "Lalo de Almeida for The New York Times"
+          "caption": "Grace Geng, the daughter of the human rights lawyer Gao Zhisheng, presented her father’s book, whose Chinese title translates to “The Year 2017, Stand Up, China,” in Hong Kong on Tuesday.",
+          "copyright": "Kin Cheung/Associated Press"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/12/business/12BRAZILSOAP/12BRAZILSOAP-mediumThreeByTwo210.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15CHINAGAO01/15CHINAGAO01-mediumThreeByTwo210.jpg",
           "format": "mediumThreeByTwo210",
           "height": 140,
           "width": 210,
           "type": "image",
           "subtype": "photo",
-          "caption": "The actresses Nathalia Dill, left, and Juliana Carneiro da Cunha on the set of the telenovela &ldquo;Liberdade, Liberdade,&rdquo; at Globo&rsquo;s studios in a suburb of Rio de Janeiro.",
-          "copyright": "Lalo de Almeida for The New York Times"
+          "caption": "Grace Geng, the daughter of the human rights lawyer Gao Zhisheng, presented her father’s book, whose Chinese title translates to “The Year 2017, Stand Up, China,” in Hong Kong on Tuesday.",
+          "copyright": "Kin Cheung/Associated Press"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/12/business/12BRAZILSOAP/12BRAZILSOAP-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15CHINAGAO01/15CHINAGAO01-superJumbo.jpg",
           "format": "superJumbo",
           "height": 1365,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "The actresses Nathalia Dill, left, and Juliana Carneiro da Cunha on the set of the telenovela &ldquo;Liberdade, Liberdade,&rdquo; at Globo&rsquo;s studios in a suburb of Rio de Janeiro.",
-          "copyright": "Lalo de Almeida for The New York Times"
+          "caption": "Grace Geng, the daughter of the human rights lawyer Gao Zhisheng, presented her father’s book, whose Chinese title translates to “The Year 2017, Stand Up, China,” in Hong Kong on Tuesday.",
+          "copyright": "Kin Cheung/Associated Press"
         }
       ],
-      "short_url": "http://nyti.ms/1WHMzUG"
+      "short_url": "http://nyti.ms/1rnuNIu"
     },
     {
       "section": "World",
       "subsection": "Europe",
-      "title": "A French Minister Who Attracts Applause and Anger Considers a Bigger Stage",
-      "abstract": "Emmanuel Macron has started what many consider a campaign in all but name to explore whether to challenge François Hollande as the Socialist candidate for president.",
-      "url": "http://www.nytimes.com/2016/06/10/world/europe/emmanuel-macron-france-en-marche.html",
-      "byline": "By ADAM NOSSITER",
+      "title": "Man Who Killed 2 in France Had Been Sentenced for Terrorist Recruitment",
+      "abstract": "Larossi Abballa, who stabbed a police captain and his companion to death, was released almost immediately after his conviction to prison in 2013.",
+      "url": "http://www.nytimes.com/2016/06/15/world/europe/france-stabbing-police-magnanville-isis.html",
+      "byline": "By ALISSA J. RUBIN and LILIA BLAISE",
       "item_type": "Article",
-      "updated_date": "2016-06-09T02:19:25-04:00",
-      "created_date": "2016-06-09T02:19:27-04:00",
-      "published_date": "2016-06-12T00:00:00-04:00",
+      "updated_date": "2016-06-14T07:07:20-04:00",
+      "created_date": "2016-06-14T07:07:22-04:00",
+      "published_date": "2016-06-15T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Terrorism",
+        "Attacks on Police",
+        "Murders, Attempted Murders and Homicides"
+      ],
+      "org_facet": [
+        "Islamic State in Iraq and Syria (ISIS)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "France"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15Francestabbing-web2/15Francestabbing-web2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police officers at the crime scene a day after a knife-wielding attacker stabbed a police captain in Magnanville, France, on Tuesday.",
+          "copyright": "Thibault Camus/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15Francestabbing-web2/15Francestabbing-web2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police officers at the crime scene a day after a knife-wielding attacker stabbed a police captain in Magnanville, France, on Tuesday.",
+          "copyright": "Thibault Camus/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15Francestabbing-web2/15Francestabbing-web2-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police officers at the crime scene a day after a knife-wielding attacker stabbed a police captain in Magnanville, France, on Tuesday.",
+          "copyright": "Thibault Camus/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15Francestabbing-web2/15Francestabbing-web2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police officers at the crime scene a day after a knife-wielding attacker stabbed a police captain in Magnanville, France, on Tuesday.",
+          "copyright": "Thibault Camus/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15Francestabbing-web2/15Francestabbing-web2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police officers at the crime scene a day after a knife-wielding attacker stabbed a police captain in Magnanville, France, on Tuesday.",
+          "copyright": "Thibault Camus/Associated Press"
+        }
+      ],
+      "short_url": "http://nyti.ms/1Us8kpe"
+    },
+    {
+      "section": "World",
+      "subsection": "",
+      "title": "Reports Tell of a Trail of Migrant Deaths Across Deserts and Seas",
+      "abstract": "Millions of migrants have fled war and poverty in their homelands. But two reports on Tuesday highlighted the perils they face as they seek refuge in other countries.",
+      "url": "http://www.nytimes.com/2016/06/15/world/reports-tell-of-a-trail-of-migrant-deaths-across-deserts-and-seas.html",
+      "byline": "By SOMINI SENGUPTA",
+      "item_type": "Article",
+      "updated_date": "2016-06-14T05:00:23-04:00",
+      "created_date": "2016-06-14T05:00:25-04:00",
+      "published_date": "2016-06-15T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Middle East and Africa Migrant Crisis"
+      ],
+      "org_facet": [
+        "International Organization for Migration",
+        "United Nations Children's Fund"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15MIGRANTS-web2/15MIGRANTS-web2-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Crew members of the Norwegian tanker Clipper Hebe moving a coffin containing the body of a migrant at the port of Augusta in Sicily this month. A report released on Tuesday said that thousands of migrants had died trying to cross seas and deserts.",
+          "copyright": "Daniel Ochoa De Olza/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15MIGRANTS-web2/15MIGRANTS-web2-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Crew members of the Norwegian tanker Clipper Hebe moving a coffin containing the body of a migrant at the port of Augusta in Sicily this month. A report released on Tuesday said that thousands of migrants had died trying to cross seas and deserts.",
+          "copyright": "Daniel Ochoa De Olza/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15MIGRANTS-web2/15MIGRANTS-web2-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Crew members of the Norwegian tanker Clipper Hebe moving a coffin containing the body of a migrant at the port of Augusta in Sicily this month. A report released on Tuesday said that thousands of migrants had died trying to cross seas and deserts.",
+          "copyright": "Daniel Ochoa De Olza/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15MIGRANTS-web2/15MIGRANTS-web2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Crew members of the Norwegian tanker Clipper Hebe moving a coffin containing the body of a migrant at the port of Augusta in Sicily this month. A report released on Tuesday said that thousands of migrants had died trying to cross seas and deserts.",
+          "copyright": "Daniel Ochoa De Olza/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15MIGRANTS-web2/15MIGRANTS-web2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Crew members of the Norwegian tanker Clipper Hebe moving a coffin containing the body of a migrant at the port of Augusta in Sicily this month. A report released on Tuesday said that thousands of migrants had died trying to cross seas and deserts.",
+          "copyright": "Daniel Ochoa De Olza/Associated Press"
+        }
+      ],
+      "short_url": "http://nyti.ms/1rnhVCg"
+    },
+    {
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "Taiwan Bars Ex-President From Visiting Hong Kong",
+      "abstract": "Travel by the former president, Ma Ying-jeou, was restricted partly because of his previous access to classified information, a government spokesman said.",
+      "url": "http://www.nytimes.com/2016/06/15/world/asia/taiwan-hong-kong-ma-ying-jeou.html",
+      "byline": "By AUSTIN RAMZY",
+      "item_type": "Article",
+      "updated_date": "2016-06-14T04:51:59-04:00",
+      "created_date": "2016-06-14T04:52:02-04:00",
+      "published_date": "2016-06-15T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [
+        "Chinese Nationalist Party (Taiwan)"
+      ],
+      "per_facet": [
+        "Ma Ying-jeou",
+        "Tsai Ing-wen"
+      ],
+      "geo_facet": [
+        "Taiwan",
+        "Hong Kong"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15CHINAMA-web1/15CHINAMA-web1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ma Ying-jeou, president of Taiwan at the time, during a visit to Guatemala in March. His trips are largely limited to the 22 countries that recognize Taiwan.",
+          "copyright": "Johan Ordonez/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15CHINAMA-web1/15CHINAMA-web1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ma Ying-jeou, president of Taiwan at the time, during a visit to Guatemala in March. His trips are largely limited to the 22 countries that recognize Taiwan.",
+          "copyright": "Johan Ordonez/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15CHINAMA-web1/15CHINAMA-web1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ma Ying-jeou, president of Taiwan at the time, during a visit to Guatemala in March. His trips are largely limited to the 22 countries that recognize Taiwan.",
+          "copyright": "Johan Ordonez/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15CHINAMA-web1/15CHINAMA-web1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ma Ying-jeou, president of Taiwan at the time, during a visit to Guatemala in March. His trips are largely limited to the 22 countries that recognize Taiwan.",
+          "copyright": "Johan Ordonez/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/15/world/15CHINAMA-web1/15CHINAMA-web1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ma Ying-jeou, president of Taiwan at the time, during a visit to Guatemala in March. His trips are largely limited to the 22 countries that recognize Taiwan.",
+          "copyright": "Johan Ordonez/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "http://nyti.ms/1UrYgwD"
+    },
+    {
+      "section": "World",
+      "subsection": "Europe",
+      "title": "ISIS Claims Responsibility for Killing of French Police Officer",
+      "abstract": "The officer and a female companion died in Magnanville, about 35 miles west of Paris. The Islamic State claimed responsibility.",
+      "url": "http://www.nytimes.com/2016/06/14/world/europe/france-stabbing-police-officer-magnanville.html",
+      "byline": "By ALISSA J. RUBIN",
+      "item_type": "Article",
+      "updated_date": "2016-06-13T22:00:12-04:00",
+      "created_date": "2016-06-13T20:36:58-04:00",
+      "published_date": "2016-06-14T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Attacks on Police"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "France",
+        "Paris (France)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14francestabbing/14francestabbing-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Investigators near the scene of the stabbing that killed a police officer in Magnanville, France. His companion also died in the attack.",
+          "copyright": "Matthieu Alexandre/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14francestabbing/14francestabbing-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Investigators near the scene of the stabbing that killed a police officer in Magnanville, France. His companion also died in the attack.",
+          "copyright": "Matthieu Alexandre/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14francestabbing/14francestabbing-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Investigators near the scene of the stabbing that killed a police officer in Magnanville, France. His companion also died in the attack.",
+          "copyright": "Matthieu Alexandre/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14francestabbing/14francestabbing-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Investigators near the scene of the stabbing that killed a police officer in Magnanville, France. His companion also died in the attack.",
+          "copyright": "Matthieu Alexandre/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14francestabbing/14francestabbing-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Investigators near the scene of the stabbing that killed a police officer in Magnanville, France. His companion also died in the attack.",
+          "copyright": "Matthieu Alexandre/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "http://nyti.ms/1UroCir"
+    },
+    {
+      "section": "Health",
+      "subsection": "",
+      "title": "Malnutrition and Obesity Coexist in Many Countries, Report Finds",
+      "abstract": "The latest Global Nutrition Report is the third since health ministers worldwide agreed on targets for improving nutrition by 2025.",
+      "url": "http://www.nytimes.com/2016/06/14/health/malnutrition-and-obesity-coexist-in-many-countries-report-finds.html",
+      "byline": "By DONALD G. McNEIL Jr.",
+      "item_type": "Article",
+      "updated_date": "2016-06-13T19:01:22-04:00",
+      "created_date": "2016-06-13T19:01:24-04:00",
+      "published_date": "2016-06-14T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Obesity",
+        "Diet and Nutrition",
+        "Malnutrition"
+      ],
+      "org_facet": [
+        "International Food Policy Research Institute"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/science/14Global/14Global-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Children alongside their mother’s vegetable stall in Nepal in 2012. The Global Nutrition Report found the country had made progress in fewer stunted children.",
+          "copyright": "Navesh Chitrakar/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/science/14Global/14Global-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Children alongside their mother’s vegetable stall in Nepal in 2012. The Global Nutrition Report found the country had made progress in fewer stunted children.",
+          "copyright": "Navesh Chitrakar/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/science/14Global/14Global-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Children alongside their mother’s vegetable stall in Nepal in 2012. The Global Nutrition Report found the country had made progress in fewer stunted children.",
+          "copyright": "Navesh Chitrakar/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/science/14Global/14Global-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Children alongside their mother’s vegetable stall in Nepal in 2012. The Global Nutrition Report found the country had made progress in fewer stunted children.",
+          "copyright": "Navesh Chitrakar/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/science/14Global/14Global-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1354,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Children alongside their mother’s vegetable stall in Nepal in 2012. The Global Nutrition Report found the country had made progress in fewer stunted children.",
+          "copyright": "Navesh Chitrakar/Reuters"
+        }
+      ],
+      "short_url": "http://nyti.ms/1UrgDSn"
+    },
+    {
+      "section": "World",
+      "subsection": "Africa",
+      "title": "Border Clashes Between Ethiopia and Eritrea Heighten Fears of War",
+      "abstract": "Reports of fighting and possible deaths — and the lack of solid information — raise fears that Ethiopia and Eritrea are sliding once more into war.",
+      "url": "http://www.nytimes.com/2016/06/14/world/africa/border-clashes-between-ethiopia-and-eritrea-heighten-fears-of-war.html",
+      "byline": "By JEFFREY GETTLEMAN",
+      "item_type": "Article",
+      "updated_date": "2016-06-13T16:44:14-04:00",
+      "created_date": "2016-06-13T16:44:15-04:00",
+      "published_date": "2016-06-14T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "War and Revolution",
+        "International Relations"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Eritrea",
+        "Ethiopia",
+        "Nairobi (Kenya)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14eritrea-web1/14eritrea-web1-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The outskirts of Asmara, the Eritrean capital, in February. Fresh border clashes between Ethiopia and Eritrea and recent talk of another border war have opened a vein of nationalism in Eritrea.",
+          "copyright": "Thomas Mukoya/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14eritrea-web1/14eritrea-web1-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The outskirts of Asmara, the Eritrean capital, in February. Fresh border clashes between Ethiopia and Eritrea and recent talk of another border war have opened a vein of nationalism in Eritrea.",
+          "copyright": "Thomas Mukoya/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14eritrea-web1/14eritrea-web1-articleInline.jpg",
+          "format": "Normal",
+          "height": 125,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The outskirts of Asmara, the Eritrean capital, in February. Fresh border clashes between Ethiopia and Eritrea and recent talk of another border war have opened a vein of nationalism in Eritrea.",
+          "copyright": "Thomas Mukoya/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14eritrea-web1/14eritrea-web1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The outskirts of Asmara, the Eritrean capital, in February. Fresh border clashes between Ethiopia and Eritrea and recent talk of another border war have opened a vein of nationalism in Eritrea.",
+          "copyright": "Thomas Mukoya/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14eritrea-web1/14eritrea-web1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1352,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The outskirts of Asmara, the Eritrean capital, in February. Fresh border clashes between Ethiopia and Eritrea and recent talk of another border war have opened a vein of nationalism in Eritrea.",
+          "copyright": "Thomas Mukoya/Reuters"
+        }
+      ],
+      "short_url": "http://nyti.ms/1Ur1Abm"
+    },
+    {
+      "section": "Business Day",
+      "subsection": "International Business",
+      "title": "‘Brexit’ Vote Has European Workers in Britain Unsure of Future",
+      "abstract": "If Britain leaves the European Union, visa rules would have a profound impact on employees in the restaurant, hotel and construction industries.",
+      "url": "http://www.nytimes.com/2016/06/14/business/brexit-vote-has-foreign-workers-in-service-jobs-on-edge.html",
+      "byline": "By LIZ ALDERMAN",
+      "item_type": "Article",
+      "updated_date": "2016-06-13T15:54:10-04:00",
+      "created_date": "2016-06-13T15:54:13-04:00",
+      "published_date": "2016-06-14T00:00:00-04:00",
       "material_type_facet": "",
       "kicker": "",
       "des_facet": [
         "Labor and Jobs",
-        "En Marche",
-        "Demonstrations, Protests and Riots",
-        "Economic Conditions and Trends"
+        "Immigration and Emigration",
+        "Referendums",
+        "Foreign Workers",
+        "Wages and Salaries"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Great Britain"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/business/14brexitjobs5/14brexitjobs5-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Waiters at Suvlaki in Soho, London. The restaurant has employees from Greece, Italy, Bulgaria and Romania.",
+          "copyright": "Andrew Testa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/business/14brexitjobs5/14brexitjobs5-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Waiters at Suvlaki in Soho, London. The restaurant has employees from Greece, Italy, Bulgaria and Romania.",
+          "copyright": "Andrew Testa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/business/14brexitjobs5/14brexitjobs5-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Waiters at Suvlaki in Soho, London. The restaurant has employees from Greece, Italy, Bulgaria and Romania.",
+          "copyright": "Andrew Testa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/business/14brexitjobs5/14brexitjobs5-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Waiters at Suvlaki in Soho, London. The restaurant has employees from Greece, Italy, Bulgaria and Romania.",
+          "copyright": "Andrew Testa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/business/14brexitjobs5/14brexitjobs5-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Waiters at Suvlaki in Soho, London. The restaurant has employees from Greece, Italy, Bulgaria and Romania.",
+          "copyright": "Andrew Testa for The New York Times"
+        }
+      ],
+      "short_url": "http://nyti.ms/1rmlFDZ"
+    },
+    {
+      "section": "Science",
+      "subsection": "",
+      "title": "Samuel K. Wasser, a Scientific Detective Tailing Poachers",
+      "abstract": "A conservation biologist discusses his forensic analysis using DNA to determine the origins of seized elephant ivory.",
+      "url": "http://www.nytimes.com/2016/06/14/science/samuel-wasser-dna-elephants-ivory.html",
+      "byline": "By CLAUDIA DREIFUS",
+      "item_type": "Article",
+      "updated_date": "2016-06-13T13:27:23-04:00",
+      "created_date": "2016-06-13T13:27:27-04:00",
+      "published_date": "2016-06-14T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Poaching (Wildlife)",
+        "Forensic Science",
+        "Elephants",
+        "Genetics and Heredity",
+        "Ivory"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Wasser, Samuel K."
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/science/14CONVERSATION/14CONVERSATION-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The zoologist Samuel K. Wasser at the University of Washington.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/science/14CONVERSATION/14CONVERSATION-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The zoologist Samuel K. Wasser at the University of Washington.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/science/14CONVERSATION/14CONVERSATION-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The zoologist Samuel K. Wasser at the University of Washington.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/science/14CONVERSATION/14CONVERSATION-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The zoologist Samuel K. Wasser at the University of Washington.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/science/14CONVERSATION/14CONVERSATION-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The zoologist Samuel K. Wasser at the University of Washington.",
+          "copyright": "Ruth Fremson/The New York Times"
+        }
+      ],
+      "short_url": "http://nyti.ms/1UqCFEF"
+    },
+    {
+      "section": "Business Day",
+      "subsection": "DealBook",
+      "title": "Libyan Fund Claims Goldman Sachs Exploited Its Financial Naïveté",
+      "abstract": "The Libyan Investment Authority claims in a lawsuit that it lost $1.2 billion after it was misled by the Wall street bank about a series of derivatives transactions.",
+      "url": "http://www.nytimes.com/2016/06/14/business/dealbook/libyan-fund-claims-goldman-sachs-exploited-its-financial-naivete.html",
+      "byline": "By CHAD BRAY",
+      "item_type": "Article",
+      "updated_date": "2016-06-13T13:22:38-04:00",
+      "created_date": "2016-06-13T13:22:40-04:00",
+      "published_date": "2016-06-14T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Derivatives (Financial Instruments)",
+        "Banking and Financial Institutions",
+        "Sovereign Wealth Funds"
       ],
       "org_facet": [
-        "Socialist Party (France)"
+        "Goldman Sachs Group Inc",
+        "Libyan Investment Authority"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Libya"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/business/14DB-GOLDMAN/14DB-GOLDMAN-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An ENI oil platform off the coast of Libya. The country’s sovereign wealth fund is suing Goldman Sachs over the way the proceeds of Libya’s oil sales were invested.",
+          "copyright": "ENI, via European Pressphoto Agency"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/business/14DB-GOLDMAN/14DB-GOLDMAN-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An ENI oil platform off the coast of Libya. The country’s sovereign wealth fund is suing Goldman Sachs over the way the proceeds of Libya’s oil sales were invested.",
+          "copyright": "ENI, via European Pressphoto Agency"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/business/14DB-GOLDMAN/14DB-GOLDMAN-articleInline.jpg",
+          "format": "Normal",
+          "height": 140,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An ENI oil platform off the coast of Libya. The country’s sovereign wealth fund is suing Goldman Sachs over the way the proceeds of Libya’s oil sales were invested.",
+          "copyright": "ENI, via European Pressphoto Agency"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/business/14DB-GOLDMAN/14DB-GOLDMAN-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An ENI oil platform off the coast of Libya. The country’s sovereign wealth fund is suing Goldman Sachs over the way the proceeds of Libya’s oil sales were invested.",
+          "copyright": "ENI, via European Pressphoto Agency"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/business/14DB-GOLDMAN/14DB-GOLDMAN-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1510,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An ENI oil platform off the coast of Libya. The country’s sovereign wealth fund is suing Goldman Sachs over the way the proceeds of Libya’s oil sales were invested.",
+          "copyright": "ENI, via European Pressphoto Agency"
+        }
+      ],
+      "short_url": "http://nyti.ms/1UqBXay"
+    },
+    {
+      "section": "World",
+      "subsection": "Europe",
+      "title": "Search Is On for King Henry I, Who May Be Buried Under a Parking Lot",
+      "abstract": "Nearly four years after archaeologists discovered King Richard III’s grave under a parking lot, experts are hoping to find the remains of Henry under another one.",
+      "url": "http://www.nytimes.com/2016/06/14/world/europe/king-henry-i-buried-parking-richard-iii.html",
+      "byline": "By DAN BILEFSKY",
+      "item_type": "Article",
+      "updated_date": "2016-06-13T13:04:21-04:00",
+      "created_date": "2016-06-13T13:04:23-04:00",
+      "published_date": "2016-06-14T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Archaeology and Anthropology"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Henry I"
+      ],
+      "geo_facet": [
+        "England"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14king-web1/14king-web1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Technicians used ground-penetrating radar at the site of a former abbey in Reading, England, as part of a survey they hope will reveal the burial place of King Henry I.",
+          "copyright": "Reading Borough Council"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14king-web1/14king-web1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Technicians used ground-penetrating radar at the site of a former abbey in Reading, England, as part of a survey they hope will reveal the burial place of King Henry I.",
+          "copyright": "Reading Borough Council"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14king-web1/14king-web1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Technicians used ground-penetrating radar at the site of a former abbey in Reading, England, as part of a survey they hope will reveal the burial place of King Henry I.",
+          "copyright": "Reading Borough Council"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14king-web1/14king-web1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Technicians used ground-penetrating radar at the site of a former abbey in Reading, England, as part of a survey they hope will reveal the burial place of King Henry I.",
+          "copyright": "Reading Borough Council"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14king-web1/14king-web1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1199,
+          "width": 1800,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Technicians used ground-penetrating radar at the site of a former abbey in Reading, England, as part of a survey they hope will reveal the burial place of King Henry I.",
+          "copyright": "Reading Borough Council"
+        }
+      ],
+      "short_url": "http://nyti.ms/1Uqzjld"
+    },
+    {
+      "section": "World",
+      "subsection": "Europe",
+      "title": "Britain’s ‘Brexit’ Debate Inflamed by Worries That Turkey Will Join E.U.",
+      "abstract": "The possibility of Turkish membership, however remote, has injected issues of race, religion and tolerance into campaigns leading up to the June 23 vote on whether to stay in the bloc.",
+      "url": "http://www.nytimes.com/2016/06/14/world/europe/britain-brexit-turkey-eu.html",
+      "byline": "By STEVEN ERLANGER",
+      "item_type": "Article",
+      "updated_date": "2016-06-13T12:22:54-04:00",
+      "created_date": "2016-06-13T12:23:02-04:00",
+      "published_date": "2016-06-14T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Referendums",
+        "Immigration and Emigration",
+        "Muslims and Islam",
+        "Brexit",
+        "Vote Leave",
+        "Visas"
+      ],
+      "org_facet": [
+        "Conservative Party (Great Britain)",
+        "European Union"
       ],
       "per_facet": [
-        "Macron, Emmanuel (1977- )",
+        "Cameron, David",
+        "Gove, Michael Andrew",
+        "Johnson, Boris",
+        "Osborne, George"
+      ],
+      "geo_facet": [
+        "Great Britain",
+        "Turkey"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14Britain-web1/14Britain-web1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nigel Farage, the leader of the U.K. Independence Party, has said British women could be at risk of sexual assault by immigrants if Britain votes to remain in the European Union.",
+          "copyright": "Adrian Dennis/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14Britain-web1/14Britain-web1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nigel Farage, the leader of the U.K. Independence Party, has said British women could be at risk of sexual assault by immigrants if Britain votes to remain in the European Union.",
+          "copyright": "Adrian Dennis/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14Britain-web1/14Britain-web1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nigel Farage, the leader of the U.K. Independence Party, has said British women could be at risk of sexual assault by immigrants if Britain votes to remain in the European Union.",
+          "copyright": "Adrian Dennis/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14Britain-web1/14Britain-web1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nigel Farage, the leader of the U.K. Independence Party, has said British women could be at risk of sexual assault by immigrants if Britain votes to remain in the European Union.",
+          "copyright": "Adrian Dennis/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14Britain-web1/14Britain-web1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nigel Farage, the leader of the U.K. Independence Party, has said British women could be at risk of sexual assault by immigrants if Britain votes to remain in the European Union.",
+          "copyright": "Adrian Dennis/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "http://nyti.ms/1Uqt2Wx"
+    },
+    {
+      "section": "World",
+      "subsection": "Europe",
+      "title": "France’s Largest Labor Union May Have Overplayed Its Hand",
+      "abstract": "As the garbage piles up and commuters crowd onto trains, there are signs that the influence of the General Confederation of Labor could be waning.",
+      "url": "http://www.nytimes.com/2016/06/14/world/europe/france-labor-law-cgt.html",
+      "byline": "By CELESTINE BOHLEN",
+      "item_type": "Article",
+      "updated_date": "2016-06-13T11:21:34-04:00",
+      "created_date": "2016-06-13T11:21:36-04:00",
+      "published_date": "2016-06-14T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Organized Labor"
+      ],
+      "org_facet": [
+        "Confederation Generale du Travail (France)"
+      ],
+      "per_facet": [
         "Hollande, Francois"
       ],
       "geo_facet": [
@@ -1093,57 +1427,368 @@
       ],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2016/06/08/world/08macron-web1/07macron-web1-thumbStandard.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14Letter-web1/14Letter-web1-thumbStandard.jpg",
           "format": "Standard Thumbnail",
           "height": 75,
           "width": 75,
           "type": "image",
           "subtype": "photo",
-          "caption": "Emmanuel Macron, center, the French economy minister, with José Ángel Gurría, left, secretary general of the Organization for Economic Cooperation and Development, at a meeting this month in Paris.",
-          "copyright": "Etienne Laurent/European Pressphoto Agency"
+          "caption": "A demonstration in St.-Herblain, France, on Thursday against a proposed labor law.",
+          "copyright": "Jean-Sebastien Evrard/Agence France-Presse — Getty Images"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/08/world/08macron-web1/07macron-web1-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14Letter-web1/14Letter-web1-thumbLarge.jpg",
           "format": "thumbLarge",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Emmanuel Macron, center, the French economy minister, with José Ángel Gurría, left, secretary general of the Organization for Economic Cooperation and Development, at a meeting this month in Paris.",
-          "copyright": "Etienne Laurent/European Pressphoto Agency"
+          "caption": "A demonstration in St.-Herblain, France, on Thursday against a proposed labor law.",
+          "copyright": "Jean-Sebastien Evrard/Agence France-Presse — Getty Images"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/08/world/08macron-web1/07macron-web1-articleInline.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14Letter-web1/14Letter-web1-articleInline.jpg",
           "format": "Normal",
-          "height": 127,
+          "height": 126,
           "width": 190,
           "type": "image",
           "subtype": "photo",
-          "caption": "Emmanuel Macron, center, the French economy minister, with José Ángel Gurría, left, secretary general of the Organization for Economic Cooperation and Development, at a meeting this month in Paris.",
-          "copyright": "Etienne Laurent/European Pressphoto Agency"
+          "caption": "A demonstration in St.-Herblain, France, on Thursday against a proposed labor law.",
+          "copyright": "Jean-Sebastien Evrard/Agence France-Presse — Getty Images"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/08/world/08macron-web1/07macron-web1-mediumThreeByTwo210.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14Letter-web1/14Letter-web1-mediumThreeByTwo210.jpg",
           "format": "mediumThreeByTwo210",
           "height": 140,
           "width": 210,
           "type": "image",
           "subtype": "photo",
-          "caption": "Emmanuel Macron, center, the French economy minister, with José Ángel Gurría, left, secretary general of the Organization for Economic Cooperation and Development, at a meeting this month in Paris.",
-          "copyright": "Etienne Laurent/European Pressphoto Agency"
+          "caption": "A demonstration in St.-Herblain, France, on Thursday against a proposed labor law.",
+          "copyright": "Jean-Sebastien Evrard/Agence France-Presse — Getty Images"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/08/world/08macron-web1/07macron-web1-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14Letter-web1/14Letter-web1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1363,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A demonstration in St.-Herblain, France, on Thursday against a proposed labor law.",
+          "copyright": "Jean-Sebastien Evrard/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "http://nyti.ms/1UqjZFg"
+    },
+    {
+      "section": "World",
+      "subsection": "Americas",
+      "title": "Haze Returns to Mexico City, Where Not Driving Is Hardly an Option",
+      "abstract": "Officials are focusing on automobile emissions in their battle to improve air quality, but residents point to a sprawling city where a car is necessary.",
+      "url": "http://www.nytimes.com/2016/06/14/world/americas/mexico-city-cars-pollution.html",
+      "byline": "By ELISABETH MALKIN",
+      "item_type": "Article",
+      "updated_date": "2016-06-13T09:47:23-04:00",
+      "created_date": "2016-06-13T09:47:25-04:00",
+      "published_date": "2016-06-14T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Air Pollution",
+        "Fuel Emissions (Transportation)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Mexico City (Mexico)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14MEXICO1/14MEXICO1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rush-hour traffic on the Circuito Interior, a freeway in Mexico City.",
+          "copyright": "Adriana Zehbrauskas for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14MEXICO1/14MEXICO1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rush-hour traffic on the Circuito Interior, a freeway in Mexico City.",
+          "copyright": "Adriana Zehbrauskas for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14MEXICO1/14MEXICO1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rush-hour traffic on the Circuito Interior, a freeway in Mexico City.",
+          "copyright": "Adriana Zehbrauskas for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14MEXICO1/14MEXICO1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rush-hour traffic on the Circuito Interior, a freeway in Mexico City.",
+          "copyright": "Adriana Zehbrauskas for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14MEXICO1/14MEXICO1-superJumbo.jpg",
           "format": "superJumbo",
           "height": 1365,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "Emmanuel Macron, center, the French economy minister, with José Ángel Gurría, left, secretary general of the Organization for Economic Cooperation and Development, at a meeting this month in Paris.",
-          "copyright": "Etienne Laurent/European Pressphoto Agency"
+          "caption": "Rush-hour traffic on the Circuito Interior, a freeway in Mexico City.",
+          "copyright": "Adriana Zehbrauskas for The New York Times"
         }
       ],
-      "short_url": "http://nyti.ms/1WFSHwL"
+      "short_url": "http://nyti.ms/1rlx32W"
+    },
+    {
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "Suspect in Shanghai Airport Blast Was Mired in Gambling Debts, Police Say",
+      "abstract": "Investigators say Zhou Xingbo, a 29-year-old migrant worker from Guizhou Province in southwest China, “indulged in online gambling and lost all his savings.”",
+      "url": "http://www.nytimes.com/2016/06/14/world/asia/shanghai-airport-explosion-debt.html",
+      "byline": "By CHRIS BUCKLEY",
+      "item_type": "Article",
+      "updated_date": "2016-06-13T08:42:00-04:00",
+      "created_date": "2016-06-13T08:42:06-04:00",
+      "published_date": "2016-06-14T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Bombs and Explosives",
+        "Airports",
+        "Gambling"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Shanghai (China)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14China-web/14China-web-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A demolition expert inspected a package on Sunday at Pudong International Airport in Shanghai, after an explosion in Terminal 2.",
+          "copyright": "Chinatopix, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14China-web/14China-web-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A demolition expert inspected a package on Sunday at Pudong International Airport in Shanghai, after an explosion in Terminal 2.",
+          "copyright": "Chinatopix, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14China-web/14China-web-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A demolition expert inspected a package on Sunday at Pudong International Airport in Shanghai, after an explosion in Terminal 2.",
+          "copyright": "Chinatopix, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14China-web/14China-web-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A demolition expert inspected a package on Sunday at Pudong International Airport in Shanghai, after an explosion in Terminal 2.",
+          "copyright": "Chinatopix, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14China-web/14China-web-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1363,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A demolition expert inspected a package on Sunday at Pudong International Airport in Shanghai, after an explosion in Terminal 2.",
+          "copyright": "Chinatopix, via Associated Press"
+        }
+      ],
+      "short_url": "http://nyti.ms/1UpZZT2"
+    },
+    {
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "Police in China Want Rights Lawyer Prosecuted on Subversion Charge",
+      "abstract": "Zhou Shifeng was arrested last year as part of a campaign against lawyers who were accused of trying to discredit the Communist Party.",
+      "url": "http://www.nytimes.com/2016/06/14/world/asia/china-zhou-shifeng.html",
+      "byline": "By CHRIS BUCKLEY",
+      "item_type": "Article",
+      "updated_date": "2016-06-13T18:52:21-04:00",
+      "created_date": "2016-06-13T02:46:05-04:00",
+      "published_date": "2016-06-14T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Political Prisoners",
+        "Freedom of Speech and Expression",
+        "Human Rights and Human Rights Violations"
+      ],
+      "org_facet": [
+        "Communist Party of China"
+      ],
+      "per_facet": [
+        "Zhou Shifeng (1964- )"
+      ],
+      "geo_facet": [
+        "Tianjin (China)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14CHINALAWYER-web1/14CHINALAWYER-web1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Zhou Shifeng, a prominent lawyer whose arrest last year formed the focus of a Chinese campaign to discredit and dissolve networks of defense lawyers who challenged the government.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14CHINALAWYER-web1/14CHINALAWYER-web1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Zhou Shifeng, a prominent lawyer whose arrest last year formed the focus of a Chinese campaign to discredit and dissolve networks of defense lawyers who challenged the government.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14CHINALAWYER-web1/14CHINALAWYER-web1-articleInline.jpg",
+          "format": "Normal",
+          "height": 233,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Zhou Shifeng, a prominent lawyer whose arrest last year formed the focus of a Chinese campaign to discredit and dissolve networks of defense lawyers who challenged the government.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14CHINALAWYER-web1/14CHINALAWYER-web1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Zhou Shifeng, a prominent lawyer whose arrest last year formed the focus of a Chinese campaign to discredit and dissolve networks of defense lawyers who challenged the government.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14CHINALAWYER-web1/14CHINALAWYER-web1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 445,
+          "width": 363,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Zhou Shifeng, a prominent lawyer whose arrest last year formed the focus of a Chinese campaign to discredit and dissolve networks of defense lawyers who challenged the government.",
+          "copyright": ""
+        }
+      ],
+      "short_url": "http://nyti.ms/1rkSrVU"
+    },
+    {
+      "section": "World",
+      "subsection": "What in the World",
+      "title": "China’s Call to Young Men: Your Nation Needs Your Sperm",
+      "abstract": "With sperm banks facing shortages, a government campaign tries to overcome cultural barriers to donation with appeals to patriotism (and some cash).",
+      "url": "http://www.nytimes.com/2016/06/14/world/what-in-the-world/chinas-call-to-young-men-your-nation-needs-your-sperm.html",
+      "byline": "By JAVIER C. HERNÁNDEZ",
+      "item_type": "Article",
+      "updated_date": "2016-06-13T11:25:41-04:00",
+      "created_date": "2016-06-13T11:25:44-04:00",
+      "published_date": "2016-06-14T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Infertility",
+        "Sperm",
+        "Artificial Insemination"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/06/04/world/what-in-the-world/00wit_china-sperm/00wit_china-sperm-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alvaro Dominguez"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/04/world/what-in-the-world/00wit_china-sperm/00wit_china-sperm-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alvaro Dominguez"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/04/world/what-in-the-world/00wit_china-sperm/00wit_china-sperm-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alvaro Dominguez"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/04/world/what-in-the-world/00wit_china-sperm/00wit_china-sperm-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alvaro Dominguez"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/04/world/what-in-the-world/00wit_china-sperm/00wit_china-sperm-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alvaro Dominguez"
+        }
+      ],
+      "short_url": "http://nyti.ms/1UqjJGk"
     },
     {
       "section": "World",
@@ -1153,7 +1798,7 @@
       "url": "http://www.nytimes.com/2016/06/11/world/what-in-the-world/could-long-lost-amber-room-be-stashed-under-a-nazi-bunker-in-poland.html",
       "byline": "By RICK LYMAN",
       "item_type": "Article",
-      "updated_date": "2016-06-10T05:00:01-04:00",
+      "updated_date": "2016-06-13T11:51:24-04:00",
       "created_date": "2016-06-10T05:00:05-04:00",
       "published_date": "2016-06-11T00:00:00-04:00",
       "material_type_facet": "",
@@ -1235,7 +1880,7 @@
       "url": "http://www.nytimes.com/2016/06/10/world/what-in-the-world/a-chinese-delicacy-straight-from-the-swiftlets-mouth.html",
       "byline": "By DAN LEVIN",
       "item_type": "Article",
-      "updated_date": "2016-06-10T14:06:10-04:00",
+      "updated_date": "2016-06-12T21:51:14-04:00",
       "created_date": "2016-06-09T05:00:06-04:00",
       "published_date": "2016-06-10T00:00:00-04:00",
       "material_type_facet": "",
@@ -1304,175 +1949,27 @@
       "short_url": "http://nyti.ms/1WG2fYr"
     },
     {
-      "section": "World",
-      "subsection": "What in the World",
-      "title": "An All-Purpose Maze Deep Beneath a London Suburb",
-      "abstract": "The Chislehurst Caves have been an arsenal, a bomb shelter, a concert site, a film set, and once even a makeshift maternity ward. But they’ve never been caves.",
-      "url": "http://www.nytimes.com/2016/06/09/world/what-in-the-world/an-all-purpose-maze-deep-beneath-a-london-suburb.html",
-      "byline": "By DES SHOE",
-      "item_type": "Article",
-      "updated_date": "2016-06-08T13:38:09-04:00",
-      "created_date": "2016-06-08T05:00:04-04:00",
-      "published_date": "2016-06-09T00:00:00-04:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Mines and Mining",
-        "Bridges and Tunnels",
-        "World War I (1914-18)",
-        "Chislehurst Caves"
-      ],
-      "org_facet": [],
-      "per_facet": [],
-      "geo_facet": [
-        "London (England)"
-      ],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2016/05/03/world/WIT_LONDON-CAVES/WIT_LONDON-CAVES-thumbStandard-v2.jpg",
-          "format": "Standard Thumbnail",
-          "height": 75,
-          "width": 75,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "",
-          "copyright": "Illustration by Leif Parsons; Photos by Jag_cz, Andrey Yurlov, Ollie, Graeme Dawes/shutterstock"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/05/03/world/WIT_LONDON-CAVES/WIT_LONDON-CAVES-thumbLarge-v2.jpg",
-          "format": "thumbLarge",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "",
-          "copyright": "Illustration by Leif Parsons; Photos by Jag_cz, Andrey Yurlov, Ollie, Graeme Dawes/shutterstock"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/05/03/world/WIT_LONDON-CAVES/WIT_LONDON-CAVES-articleInline.jpg",
-          "format": "Normal",
-          "height": 190,
-          "width": 190,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "",
-          "copyright": "Illustration by Leif Parsons; Photos by Jag_cz, Andrey Yurlov, Ollie, Graeme Dawes/shutterstock"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/05/03/world/WIT_LONDON-CAVES/WIT_LONDON-CAVES-mediumThreeByTwo210-v2.jpg",
-          "format": "mediumThreeByTwo210",
-          "height": 140,
-          "width": 210,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "",
-          "copyright": "Illustration by Leif Parsons; Photos by Jag_cz, Andrey Yurlov, Ollie, Graeme Dawes/shutterstock"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/05/03/world/WIT_LONDON-CAVES/WIT_LONDON-CAVES-superJumbo.jpg",
-          "format": "superJumbo",
-          "height": 2048,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "",
-          "copyright": "Illustration by Leif Parsons; Photos by Jag_cz, Andrey Yurlov, Ollie, Graeme Dawes/shutterstock"
-        }
-      ],
-      "short_url": "http://nyti.ms/1WErV7O"
-    },
-    {
-      "section": "Opinion",
-      "subsection": "Sunday Review",
-      "title": "The Child Migrants of Africa",
-      "abstract": "The Italian government has largely kept reporters from entering shelters and interviewing refugees.",
-      "url": "http://www.nytimes.com/2016/06/12/opinion/sunday/the-child-migrants-of-africa.html",
-      "byline": "By ASHLEY GILBERTSON",
-      "item_type": "Article",
-      "updated_date": "2016-06-10T18:15:55-04:00",
-      "created_date": "2016-06-10T18:15:58-04:00",
-      "published_date": "2016-06-12T00:00:00-04:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Refugees and Displaced Persons",
-        "Middle East and Africa Migrant Crisis"
-      ],
-      "org_facet": [],
-      "per_facet": [],
-      "geo_facet": [
-        "Mediterranean Sea"
-      ],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/sunday-review/12EXPOSURES-AfricansItaly-slide-Y6IL/12EXPOSURES-AfricansItaly-slide-Y6IL-thumbStandard.jpg",
-          "format": "Standard Thumbnail",
-          "height": 75,
-          "width": 75,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Ablie, 17, Fodaoi, 14, and Alieu, 17, all from Gambia, at the center for unaccompanied minors in Pozzallo.",
-          "copyright": "Ashley Gilbertson/VII Photo for Unicef"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/sunday-review/12EXPOSURES-AfricansItaly-slide-Y6IL/12EXPOSURES-AfricansItaly-slide-Y6IL-thumbLarge.jpg",
-          "format": "thumbLarge",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Ablie, 17, Fodaoi, 14, and Alieu, 17, all from Gambia, at the center for unaccompanied minors in Pozzallo.",
-          "copyright": "Ashley Gilbertson/VII Photo for Unicef"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/sunday-review/12EXPOSURES-AfricansItaly-slide-Y6IL/12EXPOSURES-AfricansItaly-slide-Y6IL-articleInline-v7.jpg",
-          "format": "Normal",
-          "height": 142,
-          "width": 190,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Ablie, 17, Fodaoi, 14, and Alieu, 17, all from Gambia, at the center for unaccompanied minors in Pozzallo.",
-          "copyright": "Ashley Gilbertson/VII Photo for Unicef"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/sunday-review/12EXPOSURES-AfricansItaly-slide-Y6IL/12EXPOSURES-AfricansItaly-slide-Y6IL-mediumThreeByTwo210.jpg",
-          "format": "mediumThreeByTwo210",
-          "height": 140,
-          "width": 210,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Ablie, 17, Fodaoi, 14, and Alieu, 17, all from Gambia, at the center for unaccompanied minors in Pozzallo.",
-          "copyright": "Ashley Gilbertson/VII Photo for Unicef"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/12/sunday-review/12EXPOSURES-AfricansItaly-slide-Y6IL/12EXPOSURES-AfricansItaly-slide-Y6IL-superJumbo.jpg",
-          "format": "superJumbo",
-          "height": 1365,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Ablie, 17, Fodaoi, 14, and Alieu, 17, all from Gambia, at the center for unaccompanied minors in Pozzallo.",
-          "copyright": "Ashley Gilbertson/VII Photo for Unicef"
-        }
-      ],
-      "short_url": "http://nyti.ms/1U07HzA"
-    },
-    {
       "section": "Opinion",
       "subsection": "",
-      "title": "Europe and the Unthinkable",
-      "abstract": "The collapse of the European Union is implausible but not impossible. It is time to awaken to the dangers.",
-      "url": "http://www.nytimes.com/2016/06/11/opinion/europe-and-the-unthinkable.html",
+      "title": "Orlando and Trump’s America",
+      "abstract": "Omar Mateen has set a spark to a time of inflammable anger.",
+      "url": "http://www.nytimes.com/2016/06/14/opinion/orlando-omar-mateen-pulse-florida-donald-trumps-america.html",
       "byline": "By ROGER COHEN",
       "item_type": "Article",
-      "updated_date": "2016-06-10T06:12:12-04:00",
-      "created_date": "2016-06-10T06:12:14-04:00",
-      "published_date": "2016-06-11T12:30:00-04:00",
+      "updated_date": "2016-06-13T06:23:16-04:00",
+      "created_date": "2016-06-13T06:23:18-04:00",
+      "published_date": "2016-06-14T12:30:00-04:00",
       "material_type_facet": "",
       "kicker": "",
-      "des_facet": [],
+      "des_facet": [
+        "Orlando, Fla, Shooting (2016)",
+        "Terrorism"
+      ],
       "org_facet": [],
-      "per_facet": [],
+      "per_facet": [
+        "Mateen, Omar (1986-2016)",
+        "Trump, Donald J"
+      ],
       "geo_facet": [],
       "multimedia": [
         {
@@ -1526,86 +2023,172 @@
           "copyright": "Earl Wilson/The New York Times"
         }
       ],
-      "short_url": "http://nyti.ms/1TZ4GzM"
+      "short_url": "http://nyti.ms/1rla20b"
     },
     {
       "section": "Opinion",
       "subsection": "",
-      "title": "Common-Sense Steps to Deal With the Migrant Crisis",
-      "abstract": "People have been crossing the Mediterranean for years, trying to get to Italy. Why can’t the Continent come up with a good response?",
-      "url": "http://www.nytimes.com/2016/06/10/opinion/on-the-migrant-crisis-europe-is-at-sea.html",
-      "byline": "By BEPPE SEVERGNINI",
+      "title": "Liberia, Desperate to Educate, Turns to Charter Schools",
+      "abstract": "Officials hope that turning 3 percent of their failing schools over for a year to for-profit education groups will point a way to future success.",
+      "url": "http://www.nytimes.com/2016/06/14/opinion/liberia-desperate-to-educate-turns-to-charter-schools.html",
+      "byline": "By TINA ROSENBERG",
       "item_type": "Article",
-      "updated_date": "2016-06-09T07:44:13-04:00",
-      "created_date": "2016-06-09T07:44:16-04:00",
-      "published_date": "2016-06-10T00:00:00-04:00",
+      "updated_date": "2016-06-14T03:21:01-04:00",
+      "created_date": "2016-06-14T03:21:01-04:00",
+      "published_date": "2016-06-14T00:00:00-04:00",
       "material_type_facet": "",
       "kicker": "",
       "des_facet": [
-        "Refugees and Displaced Persons",
-        "Illegal Immigration",
-        "Middle East and Africa Migrant Crisis"
+        "Education (K-12)",
+        "For-Profit Schools"
       ],
       "org_facet": [
-        "European Union"
+        "Bridge International Academies",
+        "Center for Global Development",
+        "Pearson PLC"
       ],
       "per_facet": [],
       "geo_facet": [
-        "Mediterranean Sea"
+        "Africa",
+        "Kenya",
+        "Liberia"
       ],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2016/06/10/opinion/10severgnini/10severgnini-thumbStandard.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/opinion/14fixesWeb/14fixesWeb-thumbStandard.jpg",
           "format": "Standard Thumbnail",
           "height": 75,
           "width": 75,
           "type": "image",
           "subtype": "photo",
-          "caption": "Migrants on the Italian Navy vessel Grecale off Sicily in May. In the first five months of this year, 48,000 migrants were rescued from the Canale di Sicilia section of the central Mediterranean.",
-          "copyright": "Antonio Parrinello/Reuters"
+          "caption": "A schoolgirl in Monrovia, Liberia.",
+          "copyright": "Zoom Dosso/Agence France-Presse — Getty Images"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/10/opinion/10severgnini/10severgnini-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/opinion/14fixesWeb/14fixesWeb-thumbLarge.jpg",
           "format": "thumbLarge",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Migrants on the Italian Navy vessel Grecale off Sicily in May. In the first five months of this year, 48,000 migrants were rescued from the Canale di Sicilia section of the central Mediterranean.",
-          "copyright": "Antonio Parrinello/Reuters"
+          "caption": "A schoolgirl in Monrovia, Liberia.",
+          "copyright": "Zoom Dosso/Agence France-Presse — Getty Images"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/10/opinion/10severgnini/10severgnini-articleInline.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/opinion/14fixesWeb/14fixesWeb-articleInline.jpg",
           "format": "Normal",
-          "height": 128,
+          "height": 127,
           "width": 190,
           "type": "image",
           "subtype": "photo",
-          "caption": "Migrants on the Italian Navy vessel Grecale off Sicily in May. In the first five months of this year, 48,000 migrants were rescued from the Canale di Sicilia section of the central Mediterranean.",
-          "copyright": "Antonio Parrinello/Reuters"
+          "caption": "A schoolgirl in Monrovia, Liberia.",
+          "copyright": "Zoom Dosso/Agence France-Presse — Getty Images"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/10/opinion/10severgnini/10severgnini-mediumThreeByTwo210.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/opinion/14fixesWeb/14fixesWeb-mediumThreeByTwo210.jpg",
           "format": "mediumThreeByTwo210",
           "height": 140,
           "width": 210,
           "type": "image",
           "subtype": "photo",
-          "caption": "Migrants on the Italian Navy vessel Grecale off Sicily in May. In the first five months of this year, 48,000 migrants were rescued from the Canale di Sicilia section of the central Mediterranean.",
-          "copyright": "Antonio Parrinello/Reuters"
+          "caption": "A schoolgirl in Monrovia, Liberia.",
+          "copyright": "Zoom Dosso/Agence France-Presse — Getty Images"
         },
         {
-          "url": "https://static01.nyt.com/images/2016/06/10/opinion/10severgnini/10severgnini-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2016/06/14/opinion/14fixesWeb/14fixesWeb-superJumbo.jpg",
           "format": "superJumbo",
-          "height": 1384,
+          "height": 1364,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "Migrants on the Italian Navy vessel Grecale off Sicily in May. In the first five months of this year, 48,000 migrants were rescued from the Canale di Sicilia section of the central Mediterranean.",
-          "copyright": "Antonio Parrinello/Reuters"
+          "caption": "A schoolgirl in Monrovia, Liberia.",
+          "copyright": "Zoom Dosso/Agence France-Presse — Getty Images"
         }
       ],
-      "short_url": "http://nyti.ms/1WGe9Si"
+      "short_url": "http://nyti.ms/1rnca7o"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "",
+      "title": "The Soviet Union Is Gone. Why Do Lenin Statues Remain?",
+      "abstract": "An unsolved crime reveals an even deeper mystery in post-Communist Russia.",
+      "url": "http://www.nytimes.com/2016/06/14/opinion/the-soviet-union-is-gone-why-do-lenin-statues-remain.html",
+      "byline": "By MASHA GESSEN",
+      "item_type": "Article",
+      "updated_date": "2016-06-14T03:21:01-04:00",
+      "created_date": "2016-06-14T03:21:04-04:00",
+      "published_date": "2016-06-14T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Sculpture",
+        "Monuments and Memorials (Structures)",
+        "Communism (Theory and Philosophy)",
+        "Vandalism"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Lenin, Vladimir",
+        "Putin, Vladimir V"
+      ],
+      "geo_facet": [
+        "USSR (Former Soviet Union)",
+        "Russia",
+        "Ukraine"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/opinion/14gessenWeb/14gessenWeb-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A monument to Lenin was found desecrated in Moscow on June 7.",
+          "copyright": "Mikhail Tereshchenko\\TASS, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/opinion/14gessenWeb/14gessenWeb-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A monument to Lenin was found desecrated in Moscow on June 7.",
+          "copyright": "Mikhail Tereshchenko\\TASS, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/opinion/14gessenWeb/14gessenWeb-articleInline.jpg",
+          "format": "Normal",
+          "height": 124,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A monument to Lenin was found desecrated in Moscow on June 7.",
+          "copyright": "Mikhail Tereshchenko\\TASS, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/opinion/14gessenWeb/14gessenWeb-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A monument to Lenin was found desecrated in Moscow on June 7.",
+          "copyright": "Mikhail Tereshchenko\\TASS, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/06/14/opinion/14gessenWeb/14gessenWeb-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1331,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A monument to Lenin was found desecrated in Moscow on June 7.",
+          "copyright": "Mikhail Tereshchenko\\TASS, via Getty Images"
+        }
+      ],
+      "short_url": "http://nyti.ms/1rncd36"
     },
     {
       "section": "World",
@@ -1762,185 +2345,6 @@
         }
       ],
       "short_url": "http://nyti.ms/1TSOsrQ"
-    },
-    {
-      "section": "Times Insider",
-      "subsection": "",
-      "title": "‘Named a Chevalier of the French Legion? Me?’ — Reporter’s Notebook.",
-      "abstract": "The former Paris bureau chief Steven Erlanger was surprised to learn he has been honored as a chevalier — or knight — by France.",
-      "url": "http://www.nytimes.com/2016/06/09/insider/named-a-chevalier-of-the-french-legion-me-a-reporters-notebook.html",
-      "byline": "By STEVEN ERLANGER",
-      "item_type": "Article",
-      "updated_date": "2016-06-08T14:40:01-04:00",
-      "created_date": "2016-06-08T14:40:05-04:00",
-      "published_date": "2016-06-09T00:00:00-04:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Appointments and Executive Changes",
-        "Awards, Decorations and Honors",
-        "United States International Relations",
-        "The Simpsons (TV Program)"
-      ],
-      "org_facet": [
-        "International Herald Tribune"
-      ],
-      "per_facet": [
-        "Eastwood, Clint",
-        "Ducasse, Alain",
-        "Bonaparte, Napoleon",
-        "Groening, Matt",
-        "Hartley, Jane D",
-        "Riding, Alan",
-        "Sarkozy, Jean",
-        "Sarkozy, Nicolas",
-        "Sciolino, Elaine",
-        "Simons, Marlise",
-        "Smale, Alison",
-        "Vinocur, John"
-      ],
-      "geo_facet": [
-        "Paris (France)"
-      ],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2016/06/09/insider/09-Insider-Erlanger-PIC/09-Insider-Erlanger-PIC-thumbStandard-v3.jpg",
-          "format": "Standard Thumbnail",
-          "height": 75,
-          "width": 75,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Steven Erlanger, left, with the French diplomat Jean-David Levitte and America’s ambassador to France, Jane Hartley, at the United States embassy in Paris on June 2.",
-          "copyright": "C. Mistral-Bernard/United States Embassy, Paris"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/09/insider/09-Insider-Erlanger-PIC/09-Insider-Erlanger-PIC-articleInline-v3.jpg",
-          "format": "Normal",
-          "height": 127,
-          "width": 190,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Steven Erlanger, left, with the French diplomat Jean-David Levitte and America’s ambassador to France, Jane Hartley, at the United States embassy in Paris on June 2.",
-          "copyright": "C. Mistral-Bernard/United States Embassy, Paris"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/09/insider/09-Insider-Erlanger-PIC/09-Insider-Erlanger-PIC-mediumThreeByTwo210-v3.jpg",
-          "format": "mediumThreeByTwo210",
-          "height": 140,
-          "width": 210,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Steven Erlanger, left, with the French diplomat Jean-David Levitte and America’s ambassador to France, Jane Hartley, at the United States embassy in Paris on June 2.",
-          "copyright": "C. Mistral-Bernard/United States Embassy, Paris"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2016/06/09/insider/09-Insider-Erlanger-PIC/09-Insider-Erlanger-PIC-superJumbo-v3.jpg",
-          "format": "superJumbo",
-          "height": 666,
-          "width": 1000,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Steven Erlanger, left, with the French diplomat Jean-David Levitte and America’s ambassador to France, Jane Hartley, at the United States embassy in Paris on June 2.",
-          "copyright": "C. Mistral-Bernard/United States Embassy, Paris"
-        }
-      ],
-      "short_url": "http://nyti.ms/1TWbga6"
-    },
-    {
-      "section": "Business Day",
-      "subsection": "Media",
-      "title": "Alissa Rubin, 2016 Pulitzer Winner, Reports From the Front Lines",
-      "abstract": "Ms. Rubin has spent much of her career covering Iraq, Afghanistan and the Balkans.",
-      "url": "http://www.nytimes.com/2016/04/19/business/media/alissa-rubin-pulitzer.html",
-      "byline": "By MIKE McPHATE",
-      "item_type": "Article",
-      "updated_date": "2016-04-19T14:17:32-04:00",
-      "created_date": "2016-04-18T16:33:15-04:00",
-      "published_date": "2016-04-19T00:00:00-04:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "News and News Media",
-        "Pulitzer Prizes"
-      ],
-      "org_facet": [],
-      "per_facet": [
-        "Rubin, Alissa Johannsen"
-      ],
-      "geo_facet": [],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2015/03/03/world/03SHELTERSWEB4/03SHELTERSWEB4-thumbStandard.jpg",
-          "format": "Standard Thumbnail",
-          "height": 75,
-          "width": 75,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Rika, whose stepmother poured acid on her face when she was a girl, in her room in the Women for Afghan Women shelter in Kabul.",
-          "copyright": "Lynsey Addario for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2015/03/03/world/03SHELTERSWEB4/03SHELTERSWEB4-thumbLarge.jpg",
-          "format": "thumbLarge",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Rika, whose stepmother poured acid on her face when she was a girl, in her room in the Women for Afghan Women shelter in Kabul.",
-          "copyright": "Lynsey Addario for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2015/03/03/world/03SHELTERSWEB4/03SHELTERSWEB4-articleInline.jpg",
-          "format": "Normal",
-          "height": 127,
-          "width": 190,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Rika, whose stepmother poured acid on her face when she was a girl, in her room in the Women for Afghan Women shelter in Kabul.",
-          "copyright": "Lynsey Addario for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2015/03/03/world/03SHELTERSWEB4/03SHELTERSWEB4-mediumThreeByTwo210.jpg",
-          "format": "mediumThreeByTwo210",
-          "height": 140,
-          "width": 210,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Rika, whose stepmother poured acid on her face when she was a girl, in her room in the Women for Afghan Women shelter in Kabul.",
-          "copyright": "Lynsey Addario for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2015/03/03/world/03SHELTERSWEB4/03SHELTERSWEB4-superJumbo.jpg",
-          "format": "superJumbo",
-          "height": 1367,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Rika, whose stepmother poured acid on her face when she was a girl, in her room in the Women for Afghan Women shelter in Kabul.",
-          "copyright": "Lynsey Addario for The New York Times"
-        }
-      ],
-      "short_url": "http://nyti.ms/20RwB9m"
-    },
-    {
-      "section": "Multimedia/Photos",
-      "subsection": "",
-      "title": "Photography Pulitzer for Coverage of Refugee Crisis",
-      "abstract": "The New York Times and Thomson Reuters shared the Pulitzer Prize for breaking news photography for coverage of Europe&#8217;s refugee crisis. Jessica Rinaldi of the Boston Globe won the feature photography prize for her story of a boy who endured abuse at the hands of those he trusted.",
-      "url": "http://lens.blogs.nytimes.com/2016/04/18/photography-pulitzer-for-coverage-of-refugee-crisis/",
-      "byline": "By DAVID GONZALEZ and JAMES ESTRIN",
-      "item_type": "Blogpost",
-      "updated_date": "2016-04-28T16:12:07+00:00",
-      "created_date": "2016-04-18T15:57:53-04:00",
-      "published_date": "2016-04-18T15:57:53-04:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [],
-      "org_facet": [],
-      "per_facet": [],
-      "geo_facet": [],
-      "multimedia": [],
-      "short_url": "http://nyti.ms/1Sqt4i7"
     }
   ]
 }

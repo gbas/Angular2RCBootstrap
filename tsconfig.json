@@ -8,5 +8,11 @@
     "experimentalDecorators": true,
     "removeComments": false,
     "noImplicitAny": false
-  }
+  },
+  "exclude": [
+    "typings/index.d.ts",
+    "typings/globals",
+    "node_modules"
+  ]
 }
+

@@ -1,55 +1,39 @@
 import { Component , OnInit } from '@angular/core';
-//http and rxjs
-import {HTTP_PROVIDERS} from '@angular/http';
-import 'rxjs/RX';
+
+import { RouteConfig, ROUTER_DIRECTIVES, ROUTER_PROVIDERS } from '@angular/router-deprecated';
 
 import {IWorldNew} from './world/IWorldNew';
 
-//services
-import {TopnewsWorldService} from './world/topnewsworld.service';
+//components 
+import {WorldNewsComponent} from './world/worldnews.component';
+import {MoviesComponent} from './movies/movies.component';
 
-//carousel ng-2
-import {CORE_DIRECTIVES, FORM_DIRECTIVES} from '@angular/common';
-import {CAROUSEL_DIRECTIVES} from 'ng2-bootstrap/ng2-bootstrap';
 
 @Component({
   selector: 'my-app',
-  templateUrl: 'app/world/worldNews.html',
-  directives: [CAROUSEL_DIRECTIVES, CORE_DIRECTIVES, FORM_DIRECTIVES],
-  providers : [HTTP_PROVIDERS, TopnewsWorldService]
+  templateUrl: './app/startpage.html',
+  directives: [ ROUTER_DIRECTIVES],
+  providers : [ROUTER_PROVIDERS]
 })
-export class AppComponent implements OnInit{
 
-topworldnewsCarousel : IWorldNew[];
-topworldnews : IWorldNew[];
-errorMessage : string;
-
-constructor(private _topnewsworldService: TopnewsWorldService){}
- 
-    
-
-ngOnInit(): void {
-       
-       this._topnewsworldService.getTopNews()
-            .subscribe(
-                topworldnews => {this.topworldnewsCarousel = topworldnews.slice(0,4);this.topworldnews = topworldnews.slice(4,8);},
-                
-                error => this.errorMessage = <any>error);
-        
-    }
-
-    
-
- }
+@RouteConfig([
+  {
+    path: '/worldnews',
+    name: 'WorldNews',
+    component: WorldNewsComponent,
+    useAsDefault: true
+  },
+  {
+    path: '/movies',
+    name: 'Movies',
+    component: MoviesComponent
+  }
+])
 
 
-// import {Component} from '@angular/core';
-// import {AlertComponent} from 'ng2-bootstrap/ng2-bootstrap';
+export class AppComponent {
 
-// @Component({
-//   selector: 'my-app',
-//   directives: [AlertComponent],
-//   template: `<alert type="info">ng2-bootstrap hello world!</alert>`
-// })
-// export class AppComponent {
-// }
+
+
+
+}

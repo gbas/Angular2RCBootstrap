@@ -12,7 +12,7 @@ class TopnewsWorldService {
     constructor(private _http: Http) {
     
     }
-    private  static newExtension="mediumThreeByTwo210.jpg";
+   
     private topWorldNewsUrl= 'app/world/topnewsworld.json';
 
     private  extractData(res:Response) {
@@ -20,6 +20,7 @@ class TopnewsWorldService {
 
          let ret= results.
             map(function(result){
+                
                 return result.multimedia.
                 filter(function(media) {
                     return media.width >= 250;
@@ -31,26 +32,18 @@ class TopnewsWorldService {
             });
 
          return [].concat.apply([],ret);
-
         
         
     }
-
-    static changePhotoUrl(bigPhotourl : string) : string 
-    {
-        //split using the dash 
-            let splitArr=bigPhotourl.split('-');
-            splitArr[splitArr.length-1]=this.newExtension;  
-            return splitArr.join('-');
-    }
+   
 
     getTopNews() : Observable<IWorldNew[]> {
         return this._http.get(this.topWorldNewsUrl)
         .map(this.extractData)
-            .do(data => {
+            // .do(data => {
                
-               console.log( JSON.stringify(data))}
-            )
+            //    console.log( JSON.stringify(data))}
+            // )
             .catch(this.handleError);
 
 

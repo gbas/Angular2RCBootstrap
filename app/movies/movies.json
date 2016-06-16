@@ -1,0 +1,422 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2016 The New York Times Company. All Rights Reserved.",
+  "has_more": true,
+  "num_results": 20,
+  "results": [
+    {
+      "display_title": "De Palma",
+      "mpaa_rating": "R",
+      "critics_pick": 0,
+      "byline": "A. O. SCOTT",
+      "headline": "Review: Brian De Palma Says He Is Hitchcock’s True Heir",
+      "summary_short": "In the documentary “De Palma,” Mr. De Palma explores his muse, and the juxtaposition of images from both of their works goes beyond glib shorthand.",
+      "publication_date": "2016-06-09",
+      "opening_date": null,
+      "date_updated": "2016-06-14 12:44:25",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2016/06/10/movies/review-de-palma-documentary.html",
+        "suggested_link_text": "Read the New York Times Review of De Palma"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2016/06/10/arts/10DEPALMA/10DEPALMA-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Genius",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 0,
+      "byline": "A. O. SCOTT",
+      "headline": "Review: ‘Genius’ Puts Max Perkins and Thomas Wolfe in a Literary Bromance",
+      "summary_short": "Michael Grandage’s 1930s-era biopic is nostalgia for a supposed golden age of masculine artistic potency.",
+      "publication_date": "2016-06-09",
+      "opening_date": "2016-06-10",
+      "date_updated": "2016-06-14 12:44:24",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2016/06/10/movies/review-genius-puts-max-perkins-and-thomas-wolfe-in-a-literary-bromance.html",
+        "suggested_link_text": "Read the New York Times Review of Genius"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2016/06/10/arts/10GENIUS1/10GENIUS1-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Call Her Applebroog",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "GLENN KENNY",
+      "headline": "Review: ‘Call Her Applebroog,’ Beth B’s Portrait of a Still-Vital Artist",
+      "summary_short": "Beth B, Ida Applebroog’s daughter, takes an intimate look at the artist’s drawings, paintings and emphatic engagement with others.",
+      "publication_date": "2016-06-09",
+      "opening_date": "2016-06-10",
+      "date_updated": "2016-06-10 23:40:03",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2016/06/10/movies/review-call-her-applebroog-beth-bs-portrait-of-a-still-vital-artist.html",
+        "suggested_link_text": "Read the New York Times Review of Call Her Applebroog"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2016/06/10/arts/10CALLHERAPPLEBROOG/10CALLHERAPPLEBROOG-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Careful What You Wish For",
+      "mpaa_rating": "R",
+      "critics_pick": 0,
+      "byline": "NEIL GENZLINGER",
+      "headline": "Review: ‘Careful What You Wish For,’ Starring Nick Jonas as a Naïve Teenage Lover",
+      "summary_short": "Elizabeth Allen’s film casts Mr. Jonas as a boy who takes up with the beautiful woman next door in a summer idyll that proves anything but.",
+      "publication_date": "2016-06-09",
+      "opening_date": null,
+      "date_updated": "2016-06-14 12:44:24",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2016/06/10/movies/review-careful-what-you-wish-for-starring-nick-jonas-as-a-naive-teenage-lover.html",
+        "suggested_link_text": "Read the New York Times Review of Careful What You Wish For"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2016/06/10/arts/10CAREFULWHAT/10CAREFULWHAT-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Len and Company",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "ANDY WEBSTER",
+      "headline": "Review: In ‘Len and Company,’ a Prickly Pop Producer Finds His Solitude Interrupted",
+      "summary_short": "Rhys Ifans stars as a disaffected former rock star who retreats to the countryside after a meltdown, only to host some surprise guests with concerns of their own.",
+      "publication_date": "2016-06-09",
+      "opening_date": "2016-06-10",
+      "date_updated": "2016-06-14 12:44:23",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2016/06/10/movies/review-in-len-and-company-a-prickly-pop-producer-finds-his-solitude-interrupted.html",
+        "suggested_link_text": "Read the New York Times Review of Len and Company"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2016/06/10/arts/10LENANDCOMPANY/10LENANDCOMPANY-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Germans & Jews",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "KEN JAWOROWSKI",
+      "headline": "Review: ‘Germans &amp; Jews,’ a New Generation Continues a Difficult Conversation",
+      "summary_short": "In Janina Quint’s documentary, a group of Jewish and non-Jewish Germans, most of them born after World War II, reckon with the past.",
+      "publication_date": "2016-06-09",
+      "opening_date": "2016-06-10",
+      "date_updated": "2016-06-10 23:32:04",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2016/06/10/movies/review-germans-jews-a-new-generation-continues-a-difficult-conversation.html",
+        "suggested_link_text": "Read the New York Times Review of Germans & Jews"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "Puerto Ricans in Paris",
+      "mpaa_rating": "R",
+      "critics_pick": 0,
+      "byline": "ANDY WEBSTER",
+      "headline": "Review: ‘Puerto Ricans in Paris’ Combines Comedy and Crime",
+      "summary_short": "Two New York police officers get a break from their home lives when they are asked to help stop a counterfeiter in France.",
+      "publication_date": "2016-06-09",
+      "opening_date": "2016-06-10",
+      "date_updated": "2016-06-14 12:44:23",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2016/06/10/movies/review-puerto-ricans-in-paris-combines-comedy-and-crime.html",
+        "suggested_link_text": "Read the New York Times Review of Puerto Ricans in Paris"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2016/06/10/arts/10PUERTORICAN/10PUERTORICAN-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Last Cab to Darwin",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "DANIEL M. GOLD",
+      "headline": "Review: Taking the Long Way Home in ‘Last Cab to Darwin’",
+      "summary_short": "A dying man who works as a cabby longs to leave the world on his own terms, so he turns the wheel toward eternity.",
+      "publication_date": "2016-06-09",
+      "opening_date": "2016-06-10",
+      "date_updated": "2016-06-14 12:44:22",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2016/06/10/movies/review-last-cab-to-darwin.html",
+        "suggested_link_text": "Read the New York Times Review of Last Cab to Darwin"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2016/06/10/arts/10LASTCAB/10LASTCAB-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Now You See Me 2",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 0,
+      "byline": "JEANNETTE CATSOULIS",
+      "headline": "Review: ‘Now You See Me 2’ Illusionists Are Out to Save the World",
+      "summary_short": "The sleight-of-hand the Four Horsemen must pull off in this cartoonish movie, directed by Jon M. Chu, would protect everyone’s computers.",
+      "publication_date": "2016-06-09",
+      "opening_date": "2016-06-10",
+      "date_updated": "2016-06-14 12:44:22",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2016/06/10/movies/now-you-see-me-2-review.html",
+        "suggested_link_text": "Read the New York Times Review of Now You See Me 2"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2016/06/10/arts/10NOWYOUSEE/10NOWYOUSEE-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "King Jack",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "HELEN T. VERONGOS",
+      "headline": "Review: In ‘King Jack,’ a 15-Year-Old Trapped in a Cycle of Bullying",
+      "summary_short": "Felix Johnson’s coming-of-age story portrays a teenage boy in a small town in which a bully exercises his capacity for cruelty.",
+      "publication_date": "2016-06-09",
+      "opening_date": "2016-06-10",
+      "date_updated": "2016-06-14 12:44:21",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2016/06/10/movies/review-in-king-jack-a-15-year-old-trapped-in-a-cycle-of-bullying.html",
+        "suggested_link_text": "Read the New York Times Review of King Jack"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2016/06/10/arts/10KINGJACK/10KINGJACK-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Be Somebody",
+      "mpaa_rating": "PG",
+      "critics_pick": 0,
+      "byline": "ANDY WEBSTER",
+      "headline": "Review: In ‘Be Somebody,’ a Teenage Idol Goes AWOL With an Ordinary Girl",
+      "summary_short": "Matthew Espinosa plays a pop star who has had enough with his tour handlers and sees how the other folks live.",
+      "publication_date": "2016-06-09",
+      "opening_date": "2016-06-10",
+      "date_updated": "2016-06-14 12:44:21",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2016/06/10/movies/be-somebody-review.html",
+        "suggested_link_text": "Read the New York Times Review of Be Somebody"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2016/06/10/arts/10BESOMEBODY/10BESOMEBODY-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "The Music of Strangers",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 0,
+      "byline": "KEN JAWOROWSKI",
+      "headline": "Review: ‘The Music of Strangers,’ on Yo-Yo Ma and the Silk Road Ensemble",
+      "summary_short": "Morgan Neville’s documentary follows the ensemble and discusses the relevance of music in a violent world. Lovely to watch, it’s even more beautiful to hear.",
+      "publication_date": "2016-06-09",
+      "opening_date": "2016-06-10",
+      "date_updated": "2016-06-14 12:44:21",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2016/06/10/movies/review-the-music-of-strangers-on-yo-yo-ma-and-the-silk-road-ensemble.html",
+        "suggested_link_text": "Read the New York Times Review of The Music of Strangers"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2016/06/09/multimedia/movies-06102016-music/movies-06102016-music-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Therapy for a Vampire",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "MANOHLA DARGIS",
+      "headline": "Review: In ‘Therapy for a Vampire,’ the Count Really Wants to Change",
+      "summary_short": "Sigmund Freud takes a vampire as a patient in this comedy written and directed by David Ruehm.",
+      "publication_date": "2016-06-09",
+      "opening_date": null,
+      "date_updated": "2016-06-14 12:44:20",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2016/06/10/movies/therapy-for-a-vampire-review.html",
+        "suggested_link_text": "Read the New York Times Review of Therapy for a Vampire"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2016/06/10/arts/10THERAPY/10THERAPY-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Tikkun",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "A. O. SCOTT",
+      "headline": "Review: In ‘Tikkun,’ a Hasidic Student’s Visions Merge With Metaphor",
+      "summary_short": "This feature from the Israeli director Avishai Sivan employs fanciful imagery in dark but often funny ways, without abandoning empathy.",
+      "publication_date": "2016-06-09",
+      "opening_date": null,
+      "date_updated": "2016-06-14 12:44:20",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2016/06/10/movies/tikkun-review.html",
+        "suggested_link_text": "Read the New York Times Review of Tikkun"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2016/06/09/multimedia/movies-06102016-tikkun/movies-06102016-tikkun-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Diary of a Chambermaid",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "STEPHEN HOLDEN",
+      "headline": "Review: ‘Diary of a Chambermaid’ Stars Léa Seydoux as an Abused Maid",
+      "summary_short": "Taking a period role memorably played by Paulette Goddard and Jeanne Moreau, Ms. Seydoux evokes the mutual loathing of the haves and have-nots.",
+      "publication_date": "2016-06-09",
+      "opening_date": null,
+      "date_updated": "2016-06-14 12:44:20",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2016/06/10/movies/review-diary-of-a-chambermaid-stars-lea-seydoux-as-an-abused-maid.html",
+        "suggested_link_text": "Read the New York Times Review of Diary of a Chambermaid"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2016/06/10/arts/10DIARY/10DIARY-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "The Conjuring 2",
+      "mpaa_rating": "R",
+      "critics_pick": 1,
+      "byline": "NEIL GENZLINGER",
+      "headline": "Review: In ‘The Conjuring 2,’ Ghostly Violence Has a British Accent",
+      "summary_short": "James Wan’s sequel to his horror hit concerns a London poltergeist in 1977. Vera Farmiga and Patrick Wilson return as paranormal investigators.",
+      "publication_date": "2016-06-09",
+      "opening_date": "2016-06-10",
+      "date_updated": "2016-06-14 12:44:19",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2016/06/10/movies/the-conjuring-2-review.html",
+        "suggested_link_text": "Read the New York Times Review of The Conjuring 2"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2016/06/10/arts/10CONJURING/10CONJURING-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Warcraft",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 0,
+      "byline": "MANOHLA DARGIS",
+      "headline": "Review: In ‘Warcraft,’ Orcs of a Different Domain, Fighting With Heart",
+      "summary_short": "Directed by Duncan Jones, this cinematic extension of the brand that began as a video game features invading orcs, embattled humans and much pummeling.",
+      "publication_date": "2016-06-09",
+      "opening_date": "2016-06-10",
+      "date_updated": "2016-06-14 12:44:19",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2016/06/10/movies/warcraft-review.html",
+        "suggested_link_text": "Read the New York Times Review of Warcraft"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2016/06/10/arts/10WARCRAFT/10WARCRAFT-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "'Til Madness Do Us Part",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "BEN KENIGSBERG",
+      "headline": "Review: ‘’Til Madness Do Us Part’ Finds Hell and Humanity",
+      "summary_short": "Wang Bing’s documentary about a mental hospital in China is overlong but sporadically extraordinary.",
+      "publication_date": "2016-06-08",
+      "opening_date": "2016-06-09",
+      "date_updated": "2016-06-14 12:44:18",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2016/06/09/movies/review-til-madness-do-us-part-finds-hell-and-humanity.html",
+        "suggested_link_text": "Read the New York Times Review of 'Til Madness Do Us Part"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2016/06/09/arts/09TILMADNESS/09TILMADNESS-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "From Afar",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "STEPHEN HOLDEN",
+      "headline": "Review: ‘From Afar,’ a Tale of Desire and Repression in Venezuela",
+      "summary_short": "A middle-aged gay man who lures young men from the streets develops an unlikely friendship with a tough, handsome teenager.",
+      "publication_date": "2016-06-07",
+      "opening_date": null,
+      "date_updated": "2016-06-14 12:44:18",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2016/06/08/movies/from-afar-review.html",
+        "suggested_link_text": "Read the New York Times Review of From Afar"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2016/06/08/arts/08FROMAFAR/08FROMAFAR-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    }  
+    
+  ]
+}

@@ -22,3 +22,46 @@ body {
 .marginTop10 {
   margin-top: 10px!important;
 }
+
+.marginBottom10 {
+  margin-bottom: 10px!important;
+}
+
+
+/* Navigation link styles */
+nav a {
+  padding: 5px 10px;
+  text-decoration: none;
+  margin-top: 10px;
+  display: inline-block;
+  background-color: #eee;
+  border-radius: 4px;
+}
+nav a:visited, a:link {
+  color: #607D8B;
+}
+nav a:hover {
+  color: #039be5;
+  background-color: #CFD8DC;
+}
+nav a.router-link-active {
+  color: #039be5;
+}
+
+
+.italicDate {
+  font-style:italic;
+  font-size:12px;
+}
+
+.abstractMovie {
+  min-height: 55px;
+  
+  }
+
+  .centerDiv {
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }

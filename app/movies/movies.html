@@ -1,0 +1,56 @@
+<div class="row">
+    <div class="col-sm-12">
+
+         <!-- Split button -->
+        <div class="btn-group pull-right" dropdown>
+            <button id="split-button" type="button" class="btn btn-danger">Change Order</button>
+            <button type="button" style="height:33px;" class="btn btn-danger dropdown-toggle" dropdownToggle>
+            <span class="caret"></span>
+            <span class="sr-only">Split button!</span>
+            </button>
+            <ul class="dropdown-menu" role="menu" aria-labelledby="split-button">
+            <li role="menuitem"><a class="dropdown-item" (click)="order(1)">Newest First</a></li>
+            <li role="menuitem"><a class="dropdown-item" (click)="order(2)" >Oldest First</a></li>
+            <li class="divider dropdown-divider"></li>
+            <li role="menuitem"><a class="dropdown-item" (click)="order(3)">A-Z</a></li>
+            <li role="menuitem"><a class="dropdown-item" (click)="order(4)">Z-A</a></li>
+            </ul>
+        </div>
+
+
+        <div class="clearfix"></div>
+
+        <div *ngFor="let movie of moviesToShow" class="marginTop10 marginBottom10" >
+            <div class="col-md-3 pull-left hidden-sm hidden-xs">
+                
+                    <img class="img-responsive" [src]="movie.imageUrl ">
+            </div>
+            
+            <div class="col-md-9 pull-left">
+                    <div class="row">
+                            <a [href]="movie.url" target="_blank"><h4>{{movie.title}}</h4></a>
+                          
+                            <span class="italicDate">{{movie.publicationDate | date:'fullDate'}}</span>
+                            <div class="clearfix"></div>
+                            <div class="abstractMovie">
+                                <span class="marginTop10">{{movie.abstract}}</span>
+                                <div class="clearfix marginBottom10" ></div>
+                                <span class="label" [ngClass]="{'label-success' : (movie.mpaaRating==='G'),
+                                'label-default':(movie.mpaaRating==='PG'),'label-info' : (movie.mpaaRating==='PG-13'), 
+                                'label-warning' : (movie.mpaaRating==='R'),'label-danger' : (movie.mpaaRating==='NC-17')}"> {{movie.mpaaRating}} </span>
+                            </div>
+                            <div class="clearfix"></div>
+                            <h5><a [href]="movie.url" target="_blank">Read more</a></h5>
+                            
+                     </div>      
+                            
+            </div>
+       
+            <div class="clearfix"></div>
+        </div>
+        <div class="centerDiv">
+            <pagination [totalItems]="totalItems" [(ngModel)]="currentPage" [itemsPerPage]="itemsPerPage"  (pageChanged)="pageChanged($event)"></pagination>
+        </div>
+    </div>
+
+</div>
