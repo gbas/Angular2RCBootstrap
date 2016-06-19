@@ -48,7 +48,7 @@
        
             <div class="clearfix"></div>
         </div>
-        <div class="centerDiv">
+        <div class="centerDiv" *ngIf='pageShow'>
             <pagination [totalItems]="totalItems" [(ngModel)]="currentPage" [itemsPerPage]="itemsPerPage"  (pageChanged)="pageChanged($event)"></pagination>
         </div>
     </div>

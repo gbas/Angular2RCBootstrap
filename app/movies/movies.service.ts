@@ -1,5 +1,5 @@
 import {Injectable} from '@angular/core';
-import {Http , Response} from '@angular/http';
+import {Http , Response,URLSearchParams} from '@angular/http';
 import {Observable} from 'rxjs/Observable';
 import {IMovie} from './IMovie';
 
@@ -13,7 +13,11 @@ class MoviesService {
     
     }
    
-    private moviesUrl= 'app/movies/movies.json';
+    
+
+    //private moviesUrl= 'app/movies/movies.json';
+    private moviesUrl='https://api.nytimes.com/svc/movies/v2/reviews/search.json';
+
 
     private  extractData(res:Response) :IMovie[] {
            let results=res.json().results;
@@ -37,7 +41,9 @@ class MoviesService {
    
 
     getMovies() : Observable<IMovie[]> {
-        return this._http.get(this.moviesUrl)
+        let params = new URLSearchParams();
+        params.set('api-key', "f2507b0c22784e4f82b81f03bc1c2270")
+        return this._http.get(this.moviesUrl,{search :params})
         .map(this.extractData)
             // .do(data => {
                

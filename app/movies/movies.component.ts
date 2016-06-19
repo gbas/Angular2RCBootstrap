@@ -33,6 +33,7 @@ export class MoviesComponent implements OnInit{
     public totalItems:number;
     public currentPage:number = 1;
     public itemsPerPage:number =4;
+    public pageShow : boolean = true;
 
     public status:{isopen:boolean} = {isopen: false};
     public items:Array<string> = ['Newest First',
@@ -46,7 +47,7 @@ export class MoviesComponent implements OnInit{
        this._moviesService.getMovies()
             .subscribe(
                
-                movies=>{this.movies=movies;this.totalItems=this.movies.length;this.moviesToShow=this.movies.slice(0,this.itemsPerPage);},
+                movies=>{this.movies=movies;this.totalItems=this.movies.length;this.moviesToShow=this.movies.slice(0,this.itemsPerPage);this.pageShow=true;},
                 
                 error => this.errorMessage = <any>error);
 
@@ -81,7 +82,7 @@ export class MoviesComponent implements OnInit{
             break;
         }
        
-       
+
         this.movies=sortedMovies;
         this.currentPage=1;
         this.moviesToShow=this.movies.slice(0,this.itemsPerPage);

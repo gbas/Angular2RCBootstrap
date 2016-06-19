@@ -1,5 +1,5 @@
 import {Injectable} from '@angular/core';
-import {Http , Response} from '@angular/http';
+import {Http , Response,URLSearchParams} from '@angular/http';
 import {Observable} from 'rxjs/Observable';
 import {IWorldNew} from './IWorldNew';
 
@@ -13,7 +13,8 @@ class TopnewsWorldService {
     
     }
    
-    private topWorldNewsUrl= 'app/world/topnewsworld.json';
+    //private topWorldNewsUrl= 'app/world/topnewsworld.json';
+    private topWorldNewsUrl="https://api.nytimes.com/svc/topstories/v2/home.json";
 
     private  extractData(res:Response) {
          let results=res.json().results;
@@ -38,7 +39,10 @@ class TopnewsWorldService {
    
 
     getTopNews() : Observable<IWorldNew[]> {
-        return this._http.get(this.topWorldNewsUrl)
+        let params = new URLSearchParams();
+        params.set('api-key', "f2507b0c22784e4f82b81f03bc1c2270")
+        
+        return this._http.get(this.topWorldNewsUrl,{search:params})
         .map(this.extractData)
             // .do(data => {
                
